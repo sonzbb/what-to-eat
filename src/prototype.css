@@ -335,7 +335,7 @@
 
 .recipe-image-shell {
   grid-column: 1;
-  grid-row: 1 / span 2;
+  grid-row: 1;
   align-self: center;
   display: grid;
   width: 64px;
@@ -388,7 +388,7 @@
 
 .recipe-row-heading button {
   grid-column: 3;
-  grid-row: 1 / span 2;
+  grid-row: 1;
   align-self: center;
   flex: 0 0 auto;
   min-height: 37px;
