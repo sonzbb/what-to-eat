@@ -1,0 +1,8122 @@
+[
+  {
+    "id": "蒸-1-清蒸鲈鱼",
+    "name": "清蒸鲈鱼",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "蒸",
+    "keyIngredients": [
+      "鲈鱼 1 条（约 600 克）",
+      "姜 1 块、葱 2 根",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-9b90bfaabc7a7921.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-2-豉汁蒸排骨",
+    "name": "豉汁蒸排骨",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "蒸",
+    "keyIngredients": [
+      "肋排 400 克",
+      "豆豉 1 汤勺、蒜 5 瓣",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-cbe28af7ca07deb0.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-3-香菇蒸鸡",
+    "name": "香菇蒸鸡",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "蒸",
+    "keyIngredients": [
+      "鸡腿 3 只",
+      "干香菇 6 朵、红枣 4 颗",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-5714cbccba95a530.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-4-榨菜蒸肉饼",
+    "name": "榨菜蒸肉饼",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "蒸",
+    "keyIngredients": [
+      "猪肉末 300 克",
+      "榨菜 60 克、葱花 1 把",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-8757045d86dfde2f.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-5-咸蛋蒸肉饼",
+    "name": "咸蛋蒸肉饼",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蛋类",
+    "technique": "蒸",
+    "keyIngredients": [
+      "猪肉末 300 克",
+      "咸蛋 1 个、马蹄 4 个",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-135ff401e973079b.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-6-土鱿蒸肉饼",
+    "name": "土鱿蒸肉饼",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "蒸",
+    "keyIngredients": [
+      "猪肉末 300 克",
+      "土鱿干 40 克、马蹄 4 个",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-5c6b787e355a13f6.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-7-梅菜蒸肉饼",
+    "name": "梅菜蒸肉饼",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "蒸",
+    "keyIngredients": [
+      "猪肉末 300 克",
+      "甜梅菜 80 克、姜 1 小块",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-22f2475daa16890d.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-8-冬菜蒸肉饼",
+    "name": "冬菜蒸肉饼",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "蒸",
+    "keyIngredients": [
+      "猪肉末 300 克",
+      "冬菜 50 克、马蹄 4 个",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-312e2db21eb91e69.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-9-粉丝蒸扇贝",
+    "name": "粉丝蒸扇贝",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "虾蟹贝",
+    "technique": "蒸",
+    "keyIngredients": [
+      "扇贝 8 只",
+      "龙口粉丝 1 把、蒜 1 头",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-b834b5921c2c9147.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-10-蒜蓉蒸生蚝",
+    "name": "蒜蓉蒸生蚝",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "虾蟹贝",
+    "technique": "蒸",
+    "keyIngredients": [
+      "生蚝 10 只",
+      "蒜 1 头、小米辣 2 个",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-1d469df57e5c9fa7.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-11-清蒸多宝鱼",
+    "name": "清蒸多宝鱼",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "蒸",
+    "keyIngredients": [
+      "多宝鱼 1 条（约 700 克）",
+      "姜 1 块、葱 2 根",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-e08ba4a98554932c.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-12-陈皮蒸鲍鱼",
+    "name": "陈皮蒸鲍鱼",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "虾蟹贝",
+    "technique": "蒸",
+    "keyIngredients": [
+      "鲜鲍鱼 8 只",
+      "陈皮 1 小块、蒜 4 瓣",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-5a89c686e36b15fb.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-13-姜葱蒸草鱼",
+    "name": "姜葱蒸草鱼",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "蒸",
+    "keyIngredients": [
+      "草鱼腩 500 克",
+      "姜 1 块、葱 3 根",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-b9ba3c4869c7991b.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-14-腊味蒸水蛋",
+    "name": "腊味蒸水蛋",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蛋类",
+    "technique": "蒸",
+    "keyIngredients": [
+      "鸡蛋 3 个",
+      "广式腊肠 1 根、温水 240 毫升",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-e147129d790d3a51.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-15-三色蒸水蛋",
+    "name": "三色蒸水蛋",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蛋类",
+    "technique": "蒸",
+    "keyIngredients": [
+      "鸡蛋 3 个",
+      "咸蛋 1 个、皮蛋 1 个",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-b762465957ad0c39.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-16-瑶柱蒸蛋",
+    "name": "瑶柱蒸蛋",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蛋类",
+    "technique": "蒸",
+    "keyIngredients": [
+      "鸡蛋 3 个",
+      "瑶柱 20 克、温水 240 毫升",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-813cc8af6267a058.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-17-豉汁蒸凤爪",
+    "name": "豉汁蒸凤爪",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "蒸",
+    "keyIngredients": [
+      "鸡爪 500 克",
+      "豆豉 1 汤勺、蒜 5 瓣",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-46b1b14e84de5f54.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-18-荷叶蒸鸡",
+    "name": "荷叶蒸鸡",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "蒸",
+    "keyIngredients": [
+      "鸡腿肉 500 克",
+      "干荷叶 1 张、香菇 5 朵",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-ffa35a54b3b4f52c.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-19-金针云耳蒸鸡",
+    "name": "金针云耳蒸鸡",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "蒸",
+    "keyIngredients": [
+      "鸡腿肉 500 克",
+      "金针菜 30 克、干木耳 20 克",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-2dca3261016c287f.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-20-香芋蒸排骨",
+    "name": "香芋蒸排骨",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "蒸",
+    "keyIngredients": [
+      "肋排 400 克",
+      "荔浦芋头 300 克、蒜 4 瓣",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-3fd58d2f635a78c9.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-21-南瓜蒸排骨",
+    "name": "南瓜蒸排骨",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "蒸",
+    "keyIngredients": [
+      "肋排 400 克",
+      "南瓜 350 克、豆豉半汤勺",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-bb458e9ece93a116.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-22-咸鱼蒸五花肉",
+    "name": "咸鱼蒸五花肉",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "蒸",
+    "keyIngredients": [
+      "五花肉 350 克",
+      "梅香咸鱼 60 克、姜 1 块",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-ed048314a9d9007a.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-23-鱿鱼蒸肉饼",
+    "name": "鱿鱼蒸肉饼",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "蒸",
+    "keyIngredients": [
+      "猪肉末 300 克",
+      "鲜鱿鱼 150 克、马蹄 4 个",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-b6bb9debb2092494.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-24-蒜蓉粉丝蒸虾",
+    "name": "蒜蓉粉丝蒸虾",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "虾蟹贝",
+    "technique": "蒸",
+    "keyIngredients": [
+      "鲜虾 12 只",
+      "龙口粉丝 1 把、蒜 1 头",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-9fdf020c904f29ef.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-25-豉汁蒸塘鲺",
+    "name": "豉汁蒸塘鲺",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "蒸",
+    "keyIngredients": [
+      "塘鲺鱼 1 条",
+      "豆豉 1 汤勺、蒜 4 瓣",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-67b593fcc7b8df70.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-26-梅菜蒸鱼腩",
+    "name": "梅菜蒸鱼腩",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "蒸",
+    "keyIngredients": [
+      "鲩鱼腩 500 克",
+      "甜梅菜 80 克、姜 1 块",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-e9b1c9729b9ae459.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-27-清蒸黄花鱼",
+    "name": "清蒸黄花鱼",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "蒸",
+    "keyIngredients": [
+      "黄花鱼 1 条（约 500 克）",
+      "姜 1 块、葱 2 根",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-00658bf54066ecbd.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-28-豉油皇蒸豆腐",
+    "name": "豉油皇蒸豆腐",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "豆制品",
+    "technique": "蒸",
+    "keyIngredients": [
+      "嫩豆腐 2 块",
+      "虾皮 20 克、葱花 1 把",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-090b2d260a9cf279.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "蒸-29-肉末蒸茄子",
+    "name": "肉末蒸茄子",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "蒸",
+    "keyIngredients": [
+      "紫茄子 2 根",
+      "猪肉末 150 克、蒜 4 瓣",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-a4d9ccbe5320b7cf.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "白灼-1-白灼生菜",
+    "name": "白灼生菜",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "白灼",
+    "keyIngredients": [
+      "生菜 2 棵",
+      "蒜 4 瓣、葱丝少许",
+      "蒸鱼豉油 2 汤勺"
+    ],
+    "container": "米白色椭圆瓷盘",
+    "imageFile": "recipe-830bc50b93a1dd71.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "白灼-2-白灼芥兰",
+    "name": "白灼芥兰",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "白灼",
+    "keyIngredients": [
+      "芥兰 1 把",
+      "姜丝 15 克、红椒丝少许",
+      "蒸鱼豉油 2 汤勺"
+    ],
+    "container": "米白色椭圆瓷盘",
+    "imageFile": "recipe-6d2048dfad247b1c.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "素炒-1-蒜蓉炒菜心",
+    "name": "蒜蓉炒菜心",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "素炒",
+    "keyIngredients": [
+      "广东菜心 1 把",
+      "蒜 6 瓣",
+      "蒜 5 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-54949a44a4873b8a.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "素炒-2-蚝油生菜",
+    "name": "蚝油生菜",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "素炒",
+    "keyIngredients": [
+      "生菜 2 棵",
+      "蒜 5 瓣、蚝油 1.5 汤勺",
+      "蒜 5 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-faa8bfd5982d4525.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "素炒-3-姜汁炒芥兰",
+    "name": "姜汁炒芥兰",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "素炒",
+    "keyIngredients": [
+      "芥兰 1 把",
+      "姜汁 1 汤勺、蒜 3 瓣",
+      "蒜 5 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-673422b559770b31.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "素炒-4-椒丝腐乳炒通菜",
+    "name": "椒丝腐乳炒通菜",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "素炒",
+    "keyIngredients": [
+      "通菜 1 把",
+      "腐乳 2 块、蒜 5 瓣、红椒半个",
+      "蒜 5 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-d5697f9889860768.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "素炒-5-上汤娃娃菜",
+    "name": "上汤娃娃菜",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "素炒",
+    "keyIngredients": [
+      "娃娃菜 2 棵",
+      "皮蛋 1 个、火腿 40 克",
+      "蒜 5 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-4342004b2f5cd7ea.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "素炒-6-上汤苋菜",
+    "name": "上汤苋菜",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "素炒",
+    "keyIngredients": [
+      "苋菜 1 把",
+      "皮蛋 1 个、蒜 5 瓣",
+      "蒜 5 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-0fd5a5997ad78f1c.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "素炒-7-豆豉鲮鱼油麦菜",
+    "name": "豆豉鲮鱼油麦菜",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "素炒",
+    "keyIngredients": [
+      "油麦菜 1 把",
+      "豆豉鲮鱼罐头半罐、蒜 3 瓣",
+      "蒜 5 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-9df42c697d96d11d.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "素炒-8-虾酱炒通菜",
+    "name": "虾酱炒通菜",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "素炒",
+    "keyIngredients": [
+      "通菜 1 把",
+      "虾酱 1 小勺、蒜 5 瓣",
+      "蒜 5 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-a404b23324975221.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "素炒-9-蒜蓉炒西兰花",
+    "name": "蒜蓉炒西兰花",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "素炒",
+    "keyIngredients": [
+      "西兰花 1 棵",
+      "蒜 6 瓣、胡萝卜半根",
+      "蒜 5 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-d87721cb716a91fc.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "素炒-10-清炒荷兰豆",
+    "name": "清炒荷兰豆",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "素炒",
+    "keyIngredients": [
+      "荷兰豆 300 克",
+      "蒜 4 瓣、彩椒半个",
+      "蒜 5 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-7d84d0fd46404742.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "素炒-11-荷塘小炒",
+    "name": "荷塘小炒",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "素炒",
+    "keyIngredients": [
+      "莲藕 200 克",
+      "荷兰豆 120 克、木耳 60 克、胡萝卜半根",
+      "蒜 5 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-c859a7a0953abf29.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "小炒-1-西芹炒鲜鱿",
+    "name": "西芹炒鲜鱿",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "虾蟹贝",
+    "technique": "小炒",
+    "keyIngredients": [
+      "鲜鱿鱼 300 克",
+      "西芹 250 克、红椒半个",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-16de6e4deefd96dc.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "小炒-2-豉椒炒花甲",
+    "name": "豉椒炒花甲",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "虾蟹贝",
+    "technique": "小炒",
+    "keyIngredients": [
+      "花甲 600 克",
+      "豆豉 1 汤勺、青椒 1 个",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-e78d501a42d71867.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "小炒-3-姜葱炒花蟹",
+    "name": "姜葱炒花蟹",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "虾蟹贝",
+    "technique": "小炒",
+    "keyIngredients": [
+      "花蟹 2 只",
+      "姜 1 块、葱 3 根",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-3086f5449b239d8b.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "小炒-4-滑蛋炒虾仁",
+    "name": "滑蛋炒虾仁",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蛋类",
+    "technique": "小炒",
+    "keyIngredients": [
+      "虾仁 250 克",
+      "鸡蛋 4 个、葱花 1 把",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-3029e29d8022650b.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "小炒-5-黄埔炒蛋",
+    "name": "黄埔炒蛋",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蛋类",
+    "technique": "小炒",
+    "keyIngredients": [
+      "鸡蛋 5 个",
+      "猪油 1 汤勺、葱花少许",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-3260242d67ebb490.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "小炒-6-菜脯炒蛋",
+    "name": "菜脯炒蛋",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蛋类",
+    "technique": "小炒",
+    "keyIngredients": [
+      "鸡蛋 4 个",
+      "潮汕菜脯 60 克、葱花少许",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-f3c7a67d4128f3b5.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "小炒-7-韭黄炒蛋",
+    "name": "韭黄炒蛋",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蛋类",
+    "technique": "小炒",
+    "keyIngredients": [
+      "韭黄 250 克",
+      "鸡蛋 4 个",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-a6e09bd274a9fb0b.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "小炒-8-丝瓜炒蛋",
+    "name": "丝瓜炒蛋",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蛋类",
+    "technique": "小炒",
+    "keyIngredients": [
+      "丝瓜 2 根",
+      "鸡蛋 3 个、蒜 3 瓣",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-a9709f9787719ab6.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "小炒-9-苦瓜炒蛋",
+    "name": "苦瓜炒蛋",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蛋类",
+    "technique": "小炒",
+    "keyIngredients": [
+      "苦瓜 1 根",
+      "鸡蛋 3 个、蒜 3 瓣",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-8a8b25b726e8e6e6.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "小炒-10-苦瓜炒牛肉",
+    "name": "苦瓜炒牛肉",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "牛肉",
+    "technique": "小炒",
+    "keyIngredients": [
+      "牛里脊 250 克",
+      "苦瓜 1 根、豆豉半汤勺",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-dce5d56a02bbc868.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "小炒-11-芥兰炒牛肉",
+    "name": "芥兰炒牛肉",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "牛肉",
+    "technique": "小炒",
+    "keyIngredients": [
+      "牛里脊 250 克",
+      "芥兰 300 克、姜 1 块",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-b3ceccc1119b84e8.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "小炒-12-菜远炒牛肉",
+    "name": "菜远炒牛肉",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "牛肉",
+    "technique": "小炒",
+    "keyIngredients": [
+      "牛里脊 250 克",
+      "菜心梗 300 克、姜 1 块",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-358c1242337be5b3.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "小炒-13-蚝油牛肉",
+    "name": "蚝油牛肉",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "牛肉",
+    "technique": "小炒",
+    "keyIngredients": [
+      "牛里脊 300 克",
+      "洋葱半个、彩椒半个",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-57c645758d9d0204.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "小炒-14-黑椒牛柳",
+    "name": "黑椒牛柳",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "牛肉",
+    "technique": "小炒",
+    "keyIngredients": [
+      "牛柳 300 克",
+      "洋葱半个、黑胡椒碎 1 小勺",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-105ba303d50a0426.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "小炒-15-豉椒炒牛肉",
+    "name": "豉椒炒牛肉",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "牛肉",
+    "technique": "小炒",
+    "keyIngredients": [
+      "牛里脊 300 克",
+      "豆豉 1 汤勺、青椒 2 个",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-ef730e5e46dbd89c.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "小炒-16-豉椒炒鱿鱼",
+    "name": "豉椒炒鱿鱼",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "虾蟹贝",
+    "technique": "小炒",
+    "keyIngredients": [
+      "鲜鱿鱼 350 克",
+      "豆豉 1 汤勺、青红椒各半个",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-dced190ebcdfc2ca.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "小炒-17-豉椒炒猪肚",
+    "name": "豉椒炒猪肚",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "小炒",
+    "keyIngredients": [
+      "熟猪肚 300 克",
+      "豆豉 1 汤勺、青椒 2 个",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-85c5cec58d7c3922.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "小炒-18-腰果炒鸡丁",
+    "name": "腰果炒鸡丁",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "小炒",
+    "keyIngredients": [
+      "鸡腿肉 300 克",
+      "腰果 80 克、彩椒 1 个",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-681a3225c214e69f.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "小炒-19-菠萝咕噜肉",
+    "name": "菠萝咕噜肉",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "小炒",
+    "keyIngredients": [
+      "猪梅花肉 350 克",
+      "菠萝 200 克、彩椒 1 个",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-dcbf8bc6b9233b61.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-1-啫啫鸡煲",
+    "name": "啫啫鸡煲",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "鸡腿肉 500 克",
+      "洋葱半个、姜 1 块、九层塔 1 把",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-56761701a2e12170.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-2-啫啫排骨煲",
+    "name": "啫啫排骨煲",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "肋排 500 克",
+      "洋葱半个、姜 1 块、蒜 1 头",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-35d7f49fceb5ba92.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-3-啫啫生肠煲",
+    "name": "啫啫生肠煲",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "猪生肠 450 克",
+      "洋葱半个、姜 1 块、青椒 1 个",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-612f382384d39790.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-4-啫啫鱼头煲",
+    "name": "啫啫鱼头煲",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "大鱼头 1 个",
+      "洋葱半个、姜 1 块、蒜 1 头",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-d6a7f57554e3782d.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-5-咸鱼茄子煲",
+    "name": "咸鱼茄子煲",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "紫茄子 2 根",
+      "梅香咸鱼 50 克、猪肉末 100 克",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-c3390016359ccb8b.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-6-鱼香茄子煲",
+    "name": "鱼香茄子煲",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "紫茄子 2 根",
+      "猪肉末 120 克、豆瓣酱 1 汤勺",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-80a2de57fba23ba8.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-7-沙茶牛肉煲",
+    "name": "沙茶牛肉煲",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "牛肉",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "牛肉片 350 克",
+      "沙茶酱 2 汤勺、洋葱半个",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-7b5407952bababc6.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-8-柱侯萝卜焖牛腩",
+    "name": "柱侯萝卜焖牛腩",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "牛肉",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "牛腩 600 克",
+      "白萝卜 1 根、柱侯酱 1 至 2 汤勺",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-7ef42e1076ad4dff.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-9-枝竹羊腩煲",
+    "name": "枝竹羊腩煲",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "羊肉",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "羊腩 600 克",
+      "炸腐竹 120 克、马蹄 8 个",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-7b2e83fec322e2b0.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-10-腐竹冬菇焖鲩鱼腩",
+    "name": "腐竹冬菇焖鲩鱼腩",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "鲩鱼腩 500 至 600 克",
+      "腐竹 100 至 120 克、香菇 5 朵",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-0232c71ef98c7452.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-11-支竹焖鸭",
+    "name": "支竹焖鸭",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸭鹅",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "鸭肉 600 克",
+      "炸腐竹 120 克、香菇 5 朵",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-211d2ec4a818a61c.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-12-陈皮焖鸭",
+    "name": "陈皮焖鸭",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸭鹅",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "鸭肉 600 克",
+      "陈皮 1 块、姜 1 块",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-f30412fe2e03133a.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-13-香芋焖鸭",
+    "name": "香芋焖鸭",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸭鹅",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "鸭肉 600 克",
+      "荔浦芋头 400 克、蒜 5 瓣",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-a9655326e63e184f.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-14-南乳花生焖猪手",
+    "name": "南乳花生焖猪手",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "猪手 700 克",
+      "花生 100 至 150 克、南乳 1 至 3 块",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-d4a43cc2e8394aa0.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-15-莲藕焖猪手",
+    "name": "莲藕焖猪手",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "猪手 700 克",
+      "莲藕 500 克、南乳 1 块",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-bfe76a15e3c1fc05.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-16-客家酿豆腐煲",
+    "name": "客家酿豆腐煲",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "豆制品",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "北豆腐 4 块",
+      "猪肉末 250 克、香菇 4 朵",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-0d191b6d4d5d37ba.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-17-苦瓜酿肉煲",
+    "name": "苦瓜酿肉煲",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "苦瓜 2 根",
+      "猪肉末 300 克、香菇 4 朵",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-d08f151546b911fa.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-18-酿茄子煲",
+    "name": "酿茄子煲",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "紫茄子 2 根",
+      "猪肉末 250 克、鲮鱼滑 100 克",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-baf9b0e82663639f.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-19-酿尖椒煲",
+    "name": "酿尖椒煲",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "其他",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "尖椒 8 个",
+      "猪肉末 250 克、鲮鱼滑 100 克",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-ea0f133f4534d468.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-20-酿豆卜煲",
+    "name": "酿豆卜煲",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "豆制品",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "豆卜 16 个",
+      "猪肉末 250 克、香菇 4 朵",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-4f19b2afb48594e8.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-21-白萝卜焖鱼松",
+    "name": "白萝卜焖鱼松",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "鲮鱼滑 350 克",
+      "白萝卜 1 根、芹菜 1 根",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-89f14b9542d0fc6f.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-22-冬菇焖鸡",
+    "name": "冬菇焖鸡",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "鸡腿肉 500 克",
+      "干香菇 8 朵、红枣 4 颗",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-d9ff5da6b8d18e67.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-23-板栗焖鸡",
+    "name": "板栗焖鸡",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "鸡腿肉 500 克",
+      "板栗仁 250 克、香菇 5 朵",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-91c21fb78013f471.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-24-豆腐火腩煲",
+    "name": "豆腐火腩煲",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "烧肉 300 克",
+      "北豆腐 2 块、香菇 5 朵",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-1b270217940fd791.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-25-生蚝鸡煲",
+    "name": "生蚝鸡煲",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "鸡腿肉 400 克",
+      "生蚝 300 克、姜 1 块",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-3aafaf4da6d5666f.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-26-胡椒猪肚鸡煲",
+    "name": "胡椒猪肚鸡煲",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "熟猪肚 350 克",
+      "鸡半只、白胡椒粒 1 汤勺",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-268cc3af0ea5de8b.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-27-沙姜鸡煲",
+    "name": "沙姜鸡煲",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "鸡腿肉 500 克",
+      "鲜沙姜 60 克、红葱头 6 个",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-280b09825ca81e8f.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-28-腊味萝卜煲",
+    "name": "腊味萝卜煲",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "白萝卜 1 根",
+      "广式腊肠 2 根、腊肉 100 克",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-7b84d4ee943cd134.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-29-芋头腊鸭煲",
+    "name": "芋头腊鸭煲",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸭鹅",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "腊鸭腿 2 只",
+      "荔浦芋头 400 克、蒜 5 瓣",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-341b18d303f1dc3a.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "煲焖-30-咖喱鱼蛋煲",
+    "name": "咖喱鱼蛋煲",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "炸鱼蛋 350 克",
+      "土豆 2 个、咖喱酱 2 汤勺",
+      "姜 6 片、蒜 6 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "recipe-51e300d96af36fc3.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "白切-1-白切鸡",
+    "name": "白切鸡",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "白切",
+    "keyIngredients": [
+      "嫩鸡半只（约 700 克）",
+      "姜葱蓉 3 汤勺",
+      "姜 1 大块、葱 3 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-e8548e4902f32fa2.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "白切-2-葱油鸡",
+    "name": "葱油鸡",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "白切",
+    "keyIngredients": [
+      "鸡腿 4 只",
+      "葱 4 根、姜 1 块",
+      "姜 1 大块、葱 3 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-e259e547b4478378.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "白切-3-沙姜鸡",
+    "name": "沙姜鸡",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "白切",
+    "keyIngredients": [
+      "嫩鸡半只",
+      "鲜沙姜 60 克、香菜 1 把",
+      "姜 1 大块、葱 3 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-1060445d3c705bcb.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "白切-4-盐焗鸡",
+    "name": "盐焗鸡",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "白切",
+    "keyIngredients": [
+      "嫩鸡 1 只",
+      "盐焗鸡粉 30 克、姜 1 块",
+      "姜 1 大块、葱 3 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-62f18184ae5ab6cf.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "白切-5-东江盐焗鸡",
+    "name": "东江盐焗鸡",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "白切",
+    "keyIngredients": [
+      "嫩鸡 1 只",
+      "粗盐 1.5 千克、沙姜粉 1 汤勺",
+      "姜 1 大块、葱 3 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-f6a1918017bc6264.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "白切-6-豉油鸡",
+    "name": "豉油鸡",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "白切",
+    "keyIngredients": [
+      "嫩鸡半只",
+      "生抽 180 毫升、冰糖 30 克",
+      "姜 1 大块、葱 3 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-18f44bd2e588c2cf.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "白切-7-玫瑰豉油鸡",
+    "name": "玫瑰豉油鸡",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "白切",
+    "keyIngredients": [
+      "嫩鸡半只",
+      "玫瑰露酒 1 汤勺、生抽 180 毫升",
+      "姜 1 大块、葱 3 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-21d82c2563270d8b.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "烧卤-1-广式烧鸭",
+    "name": "广式烧鸭",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸭鹅",
+    "technique": "烧卤",
+    "keyIngredients": [
+      "鸭半只",
+      "麦芽糖 2 汤勺、米醋 1 汤勺",
+      "姜 6 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-bbf61a469f543130.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "烧卤-2-蜜汁叉烧",
+    "name": "蜜汁叉烧",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "烧卤",
+    "keyIngredients": [
+      "猪梅花肉 600 克",
+      "叉烧酱 3 汤勺、蜂蜜 2 汤勺",
+      "姜 6 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-a9a75f34d8b5673e.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "烧卤-3-脆皮烧肉",
+    "name": "脆皮烧肉",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "烧卤",
+    "keyIngredients": [
+      "带皮五花肉 700 克",
+      "五香粉 1 小勺、粗盐 200 克",
+      "姜 6 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-1123b1856492bf28.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "烧卤-4-咕噜鸡球",
+    "name": "咕噜鸡球",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "烧卤",
+    "keyIngredients": [
+      "鸡腿肉 400 克",
+      "菠萝 180 克、彩椒 1 个",
+      "姜 6 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-587dd9e6c9b70369.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "烧卤-5-蚝油焖鸡翼",
+    "name": "蚝油焖鸡翼",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "烧卤",
+    "keyIngredients": [
+      "鸡翅中 12 个",
+      "蚝油 2 汤勺、香菇 5 朵",
+      "姜 6 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-2ed229bd1396b729.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "烧卤-6-豉油王鸡翅",
+    "name": "豉油王鸡翅",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "烧卤",
+    "keyIngredients": [
+      "鸡翅中 12 个",
+      "生抽 4 汤勺、冰糖 20 克",
+      "姜 6 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-994127b516aa5988.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "烧卤-7-可乐鸡翅",
+    "name": "可乐鸡翅",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "烧卤",
+    "keyIngredients": [
+      "鸡翅中 12 个",
+      "可乐 300 毫升、姜 5 片",
+      "姜 6 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-5ed769653061c558.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "烧卤-8-柠檬鸡翅",
+    "name": "柠檬鸡翅",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "烧卤",
+    "keyIngredients": [
+      "鸡翅中 12 个",
+      "柠檬 1 个、蜂蜜 1 汤勺",
+      "姜 6 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-462a44e422ac1150.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "烧卤-9-蒜蓉鸡翅",
+    "name": "蒜蓉鸡翅",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "烧卤",
+    "keyIngredients": [
+      "鸡翅中 12 个",
+      "蒜 1 头、蚝油 1 汤勺",
+      "姜 6 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-85493cf9e85b482e.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "烧卤-10-盐焗鸡翅",
+    "name": "盐焗鸡翅",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "烧卤",
+    "keyIngredients": [
+      "鸡翅中 12 个",
+      "盐焗鸡粉 20 克、姜 5 片",
+      "姜 6 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-4cd275dfb827d872.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "烧卤-11-瑞士鸡翼",
+    "name": "瑞士鸡翼",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "烧卤",
+    "keyIngredients": [
+      "鸡翅中 12 个",
+      "甜豉油 150 毫升、姜 5 片",
+      "姜 6 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-1a63b996ea99fa91.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "烧卤-12-卤水鹅翼",
+    "name": "卤水鹅翼",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸭鹅",
+    "technique": "烧卤",
+    "keyIngredients": [
+      "鹅翼 6 只",
+      "潮州卤水汁 500 毫升、南姜 30 克",
+      "姜 6 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-dae86022d67dc1b5.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "烧卤-13-卤水鹅掌",
+    "name": "卤水鹅掌",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸭鹅",
+    "technique": "烧卤",
+    "keyIngredients": [
+      "鹅掌 8 只",
+      "潮州卤水汁 500 毫升、南姜 30 克",
+      "姜 6 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-2e67a987325b9547.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "烧卤-14-卤水猪手",
+    "name": "卤水猪手",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "烧卤",
+    "keyIngredients": [
+      "猪手 700 克",
+      "潮州卤水汁 600 毫升、蒜 1 头",
+      "姜 6 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-10eb6664e726c5cd.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "烧卤-15-卤水鸡蛋豆腐",
+    "name": "卤水鸡蛋豆腐",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蛋类",
+    "technique": "烧卤",
+    "keyIngredients": [
+      "鸡蛋 6 个",
+      "油豆腐 200 克、潮州卤水汁 500 毫升",
+      "姜 6 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-cce412fcc6989ce0.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "烧卤-16-南乳炸鸡翼",
+    "name": "南乳炸鸡翼",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "烧卤",
+    "keyIngredients": [
+      "鸡翅中 12 个",
+      "南乳 2 块、蒜 5 瓣",
+      "姜 6 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-9e4aa2217117c619.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "烧卤-17-陈皮鸡",
+    "name": "陈皮鸡",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "烧卤",
+    "keyIngredients": [
+      "鸡腿肉 500 克",
+      "陈皮 1 块、冰糖 20 克",
+      "姜 6 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-ae72517d90a4f5ba.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "烧卤-18-柚子皮焖鸭",
+    "name": "柚子皮焖鸭",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸭鹅",
+    "technique": "烧卤",
+    "keyIngredients": [
+      "鸭肉 600 克",
+      "处理好的柚子皮 300 克、姜 1 块",
+      "姜 6 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-30d0b5bc2ddebf89.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "海鲜快炒-1-豉油皇煎虾",
+    "name": "豉油皇煎虾",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "虾蟹贝",
+    "technique": "海鲜快炒",
+    "keyIngredients": [
+      "鲜虾 500 克",
+      "蒜 5 瓣、葱 2 根",
+      "姜 5 片、蒜 5 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-e17259d68693ff55.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "海鲜快炒-2-咸蛋黄蒜香焗虾",
+    "name": "咸蛋黄蒜香焗虾",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蛋类",
+    "technique": "海鲜快炒",
+    "keyIngredients": [
+      "鲜虾 500 克",
+      "咸蛋黄 4 至 5 个、蒜 1 头",
+      "姜 5 片、蒜 5 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-5fcede17c0e5da14.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "海鲜快炒-3-避风塘炒虾",
+    "name": "避风塘炒虾",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "虾蟹贝",
+    "technique": "海鲜快炒",
+    "keyIngredients": [
+      "鲜虾 500 克",
+      "蒜 2 头、面包糠 80 克",
+      "姜 5 片、蒜 5 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-059014cd4f758b54.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "海鲜快炒-4-椒盐濑尿虾",
+    "name": "椒盐濑尿虾",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "虾蟹贝",
+    "technique": "海鲜快炒",
+    "keyIngredients": [
+      "濑尿虾 600 克",
+      "蒜 1 头、椒盐 1 汤勺",
+      "姜 5 片、蒜 5 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-6f161b13484af096.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "海鲜快炒-5-椒盐鲜鱿",
+    "name": "椒盐鲜鱿",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "虾蟹贝",
+    "technique": "海鲜快炒",
+    "keyIngredients": [
+      "鲜鱿鱼 400 克",
+      "蒜 5 瓣、椒盐 1 汤勺",
+      "姜 5 片、蒜 5 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-a51c00bb365fe733.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "海鲜快炒-6-豉椒炒蚬",
+    "name": "豉椒炒蚬",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "虾蟹贝",
+    "technique": "海鲜快炒",
+    "keyIngredients": [
+      "黄沙蚬 600 克",
+      "豆豉 1 汤勺、青椒 1 个",
+      "姜 5 片、蒜 5 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-a005a7f3d7b105e1.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "海鲜快炒-7-姜葱炒蚬",
+    "name": "姜葱炒蚬",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "虾蟹贝",
+    "technique": "海鲜快炒",
+    "keyIngredients": [
+      "黄沙蚬 600 克",
+      "姜 1 块、葱 3 根",
+      "姜 5 片、蒜 5 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-b519411249a54b28.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "海鲜快炒-8-蒜蓉炒蛏子",
+    "name": "蒜蓉炒蛏子",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "虾蟹贝",
+    "technique": "海鲜快炒",
+    "keyIngredients": [
+      "蛏子 600 克",
+      "蒜 1 头、粉丝 1 把",
+      "姜 5 片、蒜 5 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-88661f47b0091c83.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "海鲜快炒-9-酱爆鱿鱼须",
+    "name": "酱爆鱿鱼须",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "虾蟹贝",
+    "technique": "海鲜快炒",
+    "keyIngredients": [
+      "鱿鱼须 450 克",
+      "海鲜酱 1 汤勺、彩椒 1 个",
+      "姜 5 片、蒜 5 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-d7d4f3542079bac8.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "海鲜快炒-10-碧绿炒虾仁",
+    "name": "碧绿炒虾仁",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "虾蟹贝",
+    "technique": "海鲜快炒",
+    "keyIngredients": [
+      "虾仁 300 克",
+      "西兰花 1 棵、腰果 50 克",
+      "姜 5 片、蒜 5 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-d339953b91ea7fdf.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "海鲜快炒-11-XO酱炒带子",
+    "name": "XO酱炒带子",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "虾蟹贝",
+    "technique": "海鲜快炒",
+    "keyIngredients": [
+      "鲜带子 300 克",
+      "芦笋 200 克、XO 酱 1 汤勺",
+      "姜 5 片、蒜 5 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-8378430f961321e4.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "海鲜快炒-12-西芹炒带子",
+    "name": "西芹炒带子",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "虾蟹贝",
+    "technique": "海鲜快炒",
+    "keyIngredients": [
+      "鲜带子 300 克",
+      "西芹 250 克、彩椒半个",
+      "姜 5 片、蒜 5 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-96d56568644765c8.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "海鲜快炒-13-蒜蓉炒花甲",
+    "name": "蒜蓉炒花甲",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "虾蟹贝",
+    "technique": "海鲜快炒",
+    "keyIngredients": [
+      "花甲 600 克",
+      "蒜 1 头、小米辣 2 个",
+      "姜 5 片、蒜 5 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-faf667ec1ab596f7.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "香煎-1-椒盐鱼块",
+    "name": "椒盐鱼块",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "香煎",
+    "keyIngredients": [
+      "草鱼块 500 克",
+      "蒜 5 瓣、椒盐 1 汤勺",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-f2d0ff74882d05f5.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "香煎-2-香煎马鲛鱼",
+    "name": "香煎马鲛鱼",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "香煎",
+    "keyIngredients": [
+      "马鲛鱼段 500 克",
+      "姜 1 块、柠檬半个",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-98333b13af035cca.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "香煎-3-豉汁煎黄花鱼",
+    "name": "豉汁煎黄花鱼",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "香煎",
+    "keyIngredients": [
+      "黄花鱼 2 条",
+      "豆豉 1 汤勺、蒜 5 瓣",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-f91e023aba764d39.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "香煎-4-姜葱煎鲳鱼",
+    "name": "姜葱煎鲳鱼",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "香煎",
+    "keyIngredients": [
+      "鲳鱼 1 条（约 500 克）",
+      "姜 1 块、葱 3 根",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-575e798e9013a6be.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "香煎-5-顺德陈皮香煎鲮鱼饼",
+    "name": "顺德陈皮香煎鲮鱼饼",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "香煎",
+    "keyIngredients": [
+      "鲮鱼滑 400 克",
+      "陈皮 1 小块、葱花或香菜 1 把",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-92c59f8cf59b817d.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "香煎-6-鱼滑酿豆腐",
+    "name": "鱼滑酿豆腐",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "香煎",
+    "keyIngredients": [
+      "鲮鱼滑 300 克",
+      "北豆腐 3 块、葱花 1 把",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-ecad3b238557816a.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "香煎-7-鱼滑酿青椒",
+    "name": "鱼滑酿青椒",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "香煎",
+    "keyIngredients": [
+      "鲮鱼滑 300 克",
+      "青椒 6 个、豆豉半汤勺",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-c2d9a6142e574f8b.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "香煎-8-鱼滑蒸蛋",
+    "name": "鱼滑蒸蛋",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蛋类",
+    "technique": "香煎",
+    "keyIngredients": [
+      "鲮鱼滑 250 克",
+      "鸡蛋 3 个、葱花 1 把",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-54f3fbd74e5320b9.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "香煎-9-豆豉鲮鱼蒸茄子",
+    "name": "豆豉鲮鱼蒸茄子",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "香煎",
+    "keyIngredients": [
+      "紫茄子 2 根",
+      "豆豉鲮鱼罐头半罐、蒜 4 瓣",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-5f6103f0670cf36d.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "香煎-10-番茄焖鱼块",
+    "name": "番茄焖鱼块",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "香煎",
+    "keyIngredients": [
+      "草鱼块 500 克",
+      "番茄 3 个、姜 1 块",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-4d894c8f817b22fa.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "香煎-11-凉瓜焖鱼腩",
+    "name": "凉瓜焖鱼腩",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "香煎",
+    "keyIngredients": [
+      "鲩鱼腩 500 克",
+      "苦瓜 1 根、豆豉半汤勺",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-c15417a396011ca7.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "香煎-12-丝瓜浸鱼滑",
+    "name": "丝瓜浸鱼滑",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "香煎",
+    "keyIngredients": [
+      "鲮鱼滑 350 克",
+      "丝瓜 2 根、姜丝 15 克",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-24b2c54b48c853d3.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "香煎-13-鲮鱼球浸胜瓜",
+    "name": "鲮鱼球浸胜瓜",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "香煎",
+    "keyIngredients": [
+      "鲮鱼滑 350 克",
+      "胜瓜 2 根、草菇 100 克",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-e0cde2a802996e93.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "香煎-14-豉油糖黄花鱼",
+    "name": "豉油糖黄花鱼",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "香煎",
+    "keyIngredients": [
+      "黄花鱼 2 条",
+      "生抽 2 汤勺、黄糖 20 克",
+      "姜 5 片、葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-1ac4e88e0b32a777.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "老火汤-1-玉米胡萝卜排骨汤",
+    "name": "玉米胡萝卜排骨汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "排骨 450 克",
+      "甜玉米 1 根、胡萝卜 1 根",
+      "姜 4 片"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-3890ff0e5e8518fc.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "老火汤-2-莲藕章鱼猪骨汤",
+    "name": "莲藕章鱼猪骨汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "猪骨 500 克",
+      "莲藕 500 克、章鱼干 1 只",
+      "姜 4 片"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-e6425f35247e8249.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "老火汤-3-冬瓜薏米排骨汤",
+    "name": "冬瓜薏米排骨汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "排骨 450 克",
+      "冬瓜 500 克、薏米 60 克",
+      "姜 4 片"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-180b488554d938d3.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "老火汤-4-菜干猪肺汤",
+    "name": "菜干猪肺汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "处理好的猪肺 400 克",
+      "白菜干 80 克、南北杏 20 克",
+      "姜 4 片"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-894e0957e146d54a.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "老火汤-5-西洋菜陈肾汤",
+    "name": "西洋菜陈肾汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "猪骨 400 克",
+      "西洋菜 500 克、鸭肾干 2 个",
+      "姜 4 片"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-e65debb93f951479.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "老火汤-6-木瓜花生鸡脚汤",
+    "name": "木瓜花生鸡脚汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "鸡脚 10 只",
+      "青木瓜半个、花生 100 克",
+      "姜 4 片"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-0c73360c2d9db437.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "老火汤-7-椰子鸡汤",
+    "name": "椰子鸡汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "鸡半只",
+      "老椰子 1 个、红枣 5 颗",
+      "姜 4 片"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-c20bc712a3ba0cb7.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "老火汤-8-虫草花鸡汤",
+    "name": "虫草花鸡汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "鸡半只",
+      "虫草花 80 克、红枣 5 颗",
+      "姜 4 片"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-819186fdde3f234b.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "老火汤-9-胡椒猪肚汤",
+    "name": "胡椒猪肚汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "熟猪肚 400 克",
+      "白胡椒粒 1 汤勺、腐竹 80 克",
+      "姜 4 片"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-139c2834c3b8564c.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "老火汤-10-老黄瓜赤小豆汤",
+    "name": "老黄瓜赤小豆汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "猪骨 450 克",
+      "老黄瓜 1 根、赤小豆 60 克",
+      "姜 4 片"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-43cdacf01d91e8f5.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "老火汤-11-粉葛鲮鱼汤",
+    "name": "粉葛鲮鱼汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "鲮鱼 1 条",
+      "粉葛 500 克、赤小豆 50 克",
+      "姜 4 片"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-0326c82a43530e94.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "老火汤-12-番茄薯仔牛尾汤",
+    "name": "番茄薯仔牛尾汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "牛肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "牛尾 500 克",
+      "番茄 3 个、土豆 2 个",
+      "姜 4 片"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-de413a2e20bf49dd.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "老火汤-13-淮山杞子乌鸡汤",
+    "name": "淮山杞子乌鸡汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "乌鸡半只",
+      "鲜淮山 300 克、枸杞 15 克",
+      "姜 4 片"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-1dfa5e5f22c31074.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "老火汤-14-茶树菇老鸭汤",
+    "name": "茶树菇老鸭汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸭鹅",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "鸭半只",
+      "干茶树菇 60 克、红枣 5 颗",
+      "姜 4 片"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-4a0dc87470820b00.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "老火汤-15-霸王花猪骨汤",
+    "name": "霸王花猪骨汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "猪骨 450 克",
+      "霸王花干 60 克、蜜枣 2 个",
+      "姜 4 片"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-3c8a5b37417b08f3.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "老火汤-16-无花果瘦肉汤",
+    "name": "无花果瘦肉汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "猪瘦肉 350 克",
+      "无花果干 8 个、南北杏 20 克",
+      "姜 4 片"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-da1deccc1c40c31d.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "老火汤-17-海底椰雪梨瘦肉汤",
+    "name": "海底椰雪梨瘦肉汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "猪瘦肉 350 克",
+      "雪梨 2 个、海底椰 50 克",
+      "姜 4 片"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-f7eda0126048cbcd.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "老火汤-18-苹果雪梨瘦肉汤",
+    "name": "苹果雪梨瘦肉汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "猪瘦肉 350 克",
+      "苹果 1 个、雪梨 1 个",
+      "姜 4 片"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-9ee05ae934c49c17.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "老火汤-19-五指毛桃鸡汤",
+    "name": "五指毛桃鸡汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "鸡半只",
+      "五指毛桃 80 克、茯苓 30 克",
+      "姜 4 片"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-07d5d1d3a0eb162b.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "老火汤-20-客家娘酒鸡汤",
+    "name": "客家娘酒鸡汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "鸡半只",
+      "客家黄酒 500 毫升、姜 1 块",
+      "姜 4 片"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-5b15619647d55f72.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "快手汤-1-节瓜瑶柱肉片汤",
+    "name": "节瓜瑶柱肉片汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "快手汤",
+    "keyIngredients": [
+      "猪瘦肉片 200 克",
+      "节瓜 1 个、瑶柱 20 克",
+      "姜丝 15 克、葱花少许"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-a32735bbed6e3352.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "快手汤-2-丝瓜鱼片汤",
+    "name": "丝瓜鱼片汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "快手汤",
+    "keyIngredients": [
+      "鲩鱼片 250 克",
+      "丝瓜 2 根、姜丝 15 克",
+      "姜丝 15 克、葱花少许"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-ea855c21483a6d8c.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "快手汤-3-紫菜鱼丸汤",
+    "name": "紫菜鱼丸汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "快手汤",
+    "keyIngredients": [
+      "潮汕鱼丸 250 克",
+      "紫菜 15 克、芹菜 1 根",
+      "姜丝 15 克、葱花少许"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-28a0b27d7190591d.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "快手汤-4-冬瓜咸蛋肉片汤",
+    "name": "冬瓜咸蛋肉片汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蛋类",
+    "technique": "快手汤",
+    "keyIngredients": [
+      "猪瘦肉片 200 克",
+      "冬瓜 400 克、咸蛋 1 个",
+      "姜丝 15 克、葱花少许"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-cf5ed42f2d480289.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "快手汤-5-枸杞叶猪肝汤",
+    "name": "枸杞叶猪肝汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "快手汤",
+    "keyIngredients": [
+      "猪肝 200 克",
+      "枸杞叶 250 克、姜丝 15 克",
+      "姜丝 15 克、葱花少许"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-b0cff740115c343a.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "快手汤-6-番茄鱼片汤",
+    "name": "番茄鱼片汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "快手汤",
+    "keyIngredients": [
+      "鲩鱼片 250 克",
+      "番茄 3 个、豆腐 1 块",
+      "姜丝 15 克、葱花少许"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-fb8b2bc504fae112.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "快手汤-7-豆腐鲫鱼汤",
+    "name": "豆腐鲫鱼汤",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "快手汤",
+    "keyIngredients": [
+      "鲫鱼 1 条",
+      "嫩豆腐 1 块、姜 1 块",
+      "姜丝 15 克、葱花少许"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-53bf1faba21d71a6.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "快手汤-8-鸡蓉粟米羹",
+    "name": "鸡蓉粟米羹",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "快手汤",
+    "keyIngredients": [
+      "鸡胸肉 180 克",
+      "甜玉米粒 250 克、鸡蛋 1 个",
+      "姜丝 15 克、葱花少许"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-eb27cb0fc3e2167a.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "快手汤-9-粟米鱼肚羹",
+    "name": "粟米鱼肚羹",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "虾蟹贝",
+    "technique": "快手汤",
+    "keyIngredients": [
+      "泡发鱼肚 180 克",
+      "甜玉米粒 200 克、鸡蛋 1 个",
+      "姜丝 15 克、葱花少许"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-6938cf63b26bc997.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "快手汤-10-海皇豆腐羹",
+    "name": "海皇豆腐羹",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "豆制品",
+    "technique": "快手汤",
+    "keyIngredients": [
+      "嫩豆腐 1 盒",
+      "虾仁 100 克、蟹柳 4 根、鸡蛋 1 个",
+      "姜丝 15 克、葱花少许"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "recipe-3040d34eac2d69e3.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "饭面-1-干炒牛河",
+    "name": "干炒牛河",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "河粉 500 克",
+      "牛肉片 200 克、韭黄 100 克",
+      "姜丝、葱段各适量"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "recipe-5f5f0bb6783592fb.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "饭面-2-湿炒牛河",
+    "name": "湿炒牛河",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "河粉 500 克",
+      "牛肉片 200 克、菜心 150 克",
+      "姜丝、葱段各适量"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "recipe-ca19144e38850b62.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "饭面-3-星洲炒米",
+    "name": "星洲炒米",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "米粉 300 克",
+      "虾仁 120 克、叉烧 100 克、咖喱粉 1 汤勺",
+      "姜丝、葱段各适量"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "recipe-0065297d7572b6c4.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "饭面-4-豉油皇炒面",
+    "name": "豉油皇炒面",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "全蛋面 300 克",
+      "韭黄 100 克、豆芽 150 克",
+      "姜丝、葱段各适量"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "recipe-e030c972e6eba673.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "饭面-5-扬州炒饭",
+    "name": "扬州炒饭",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "隔夜米饭 2 碗",
+      "虾仁 100 克、叉烧 80 克、鸡蛋 2 个",
+      "姜丝、葱段各适量"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "recipe-07dcae6afc470658.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "饭面-6-排骨煲仔饭",
+    "name": "排骨煲仔饭",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "丝苗米 250 克",
+      "肋排 300 克、豆豉半汤勺",
+      "姜丝、葱段各适量"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "recipe-9a15952e556359c9.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "饭面-7-滑鸡煲仔饭",
+    "name": "滑鸡煲仔饭",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "丝苗米 250 克",
+      "鸡腿肉 300 克、香菇 4 朵",
+      "姜丝、葱段各适量"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "recipe-5d5d3255ffc90c26.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "饭面-8-窝蛋牛肉煲仔饭",
+    "name": "窝蛋牛肉煲仔饭",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蛋类",
+    "technique": "饭面",
+    "keyIngredients": [
+      "丝苗米 250 克",
+      "牛肉末 250 克、鸡蛋 1 个",
+      "姜丝、葱段各适量"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "recipe-b7b24a691c6356a8.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "饭面-9-菜脯蛋炒饭",
+    "name": "菜脯蛋炒饭",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蛋类",
+    "technique": "饭面",
+    "keyIngredients": [
+      "隔夜米饭 2 碗",
+      "潮汕菜脯 60 克、鸡蛋 2 个",
+      "姜丝、葱段各适量"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "recipe-c3bf70adaa4783cf.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "饭面-10-港式餐蛋面",
+    "name": "港式餐蛋面",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蛋类",
+    "technique": "饭面",
+    "keyIngredients": [
+      "公仔面 2 包",
+      "午餐肉 4 片、鸡蛋 2 个",
+      "姜丝、葱段各适量"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "recipe-4350e341a92d9ebe.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "饭面-11-鲜虾云吞面",
+    "name": "鲜虾云吞面",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "竹升面 2 份",
+      "鲜虾云吞 12 个、菜心 1 把",
+      "姜丝、葱段各适量"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "recipe-22cfc07b3a5a7777.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "饭面-12-柱侯牛腩面",
+    "name": "柱侯牛腩面",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "碱水面 2 份",
+      "柱侯牛腩 350 克、菜心 1 把",
+      "姜丝、葱段各适量"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "recipe-dd4831a0d76ea215.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "粥点-1-生滚鱼片粥",
+    "name": "生滚鱼片粥",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "米面粥点",
+    "technique": "粥点",
+    "keyIngredients": [
+      "大米 120 克",
+      "鲩鱼片 250 克、姜丝 15 克",
+      "姜丝、葱花各适量"
+    ],
+    "container": "广式粥碗或竹蒸笼",
+    "imageFile": "recipe-a45fffd67f79d469.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "粥点-2-艇仔粥",
+    "name": "艇仔粥",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "米面粥点",
+    "technique": "粥点",
+    "keyIngredients": [
+      "大米 120 克",
+      "鱼片 120 克、鱿鱼 80 克、花生 40 克",
+      "姜丝、葱花各适量"
+    ],
+    "container": "广式粥碗或竹蒸笼",
+    "imageFile": "recipe-17f03bcf5c0330e2.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "粥点-3-及第粥",
+    "name": "及第粥",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "米面粥点",
+    "technique": "粥点",
+    "keyIngredients": [
+      "大米 120 克",
+      "猪肝 100 克、猪腰 1 个、猪粉肠 120 克",
+      "姜丝、葱花各适量"
+    ],
+    "container": "广式粥碗或竹蒸笼",
+    "imageFile": "recipe-a21767223fd6a1de.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "粥点-4-腊味萝卜糕",
+    "name": "腊味萝卜糕",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "米面粥点",
+    "technique": "粥点",
+    "keyIngredients": [
+      "白萝卜 800 克",
+      "粘米粉 250 克、腊肠 1 根、虾米 30 克",
+      "姜丝、葱花各适量"
+    ],
+    "container": "广式粥碗或竹蒸笼",
+    "imageFile": "recipe-9402769a55f4deeb.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "粥点-5-香煎马蹄糕",
+    "name": "香煎马蹄糕",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "米面粥点",
+    "technique": "粥点",
+    "keyIngredients": [
+      "马蹄粉 180 克",
+      "马蹄 10 个、黄片糖 150 克",
+      "姜丝、葱花各适量"
+    ],
+    "container": "广式粥碗或竹蒸笼",
+    "imageFile": "recipe-eac517118162d53b.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "粥点-6-煎酿三宝",
+    "name": "煎酿三宝",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "豆制品",
+    "technique": "粥点",
+    "keyIngredients": [
+      "茄子 1 根、青椒 4 个、豆腐 2 块",
+      "鲮鱼滑 350 克、豆豉半汤勺",
+      "姜丝、葱花各适量"
+    ],
+    "container": "广式粥碗或竹蒸笼",
+    "imageFile": "recipe-a51fe5d9021f8da7.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-1-番茄炒蛋",
+    "name": "番茄炒蛋",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蛋类",
+    "technique": "家常",
+    "keyIngredients": [
+      "番茄 3 个",
+      "鸡蛋 4 个、葱花 1 把",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "home-tomato-egg.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-2-鱼香肉丝",
+    "name": "鱼香肉丝",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "家常",
+    "keyIngredients": [
+      "猪里脊 300 克",
+      "木耳 60 克、胡萝卜半根、青椒 1 个",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-b89cf6429ded3272.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-3-宫保鸡丁",
+    "name": "宫保鸡丁",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "家常",
+    "keyIngredients": [
+      "鸡腿肉 350 克",
+      "花生 80 克、干辣椒 8 个",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-457e0da0c16d82c6.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-4-回锅肉",
+    "name": "回锅肉",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "家常",
+    "keyIngredients": [
+      "五花肉 350 克",
+      "青蒜 3 根、豆瓣酱 1 汤勺",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-a4587b1e4188c311.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-5-麻婆豆腐",
+    "name": "麻婆豆腐",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "豆制品",
+    "technique": "家常",
+    "keyIngredients": [
+      "嫩豆腐 2 块",
+      "牛肉末 120 克、豆瓣酱 1 汤勺",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-4e02743785dd5210.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-6-水煮肉片",
+    "name": "水煮肉片",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "家常",
+    "keyIngredients": [
+      "猪里脊 350 克",
+      "豆芽 250 克、豆瓣酱 2 汤勺",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-2fd2de5915e9aae4.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-7-青椒肉丝",
+    "name": "青椒肉丝",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "家常",
+    "keyIngredients": [
+      "猪里脊 300 克",
+      "青椒 3 个、蒜 3 瓣",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-7bae0f596040ff69.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-8-酸辣土豆丝",
+    "name": "酸辣土豆丝",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "家常",
+    "keyIngredients": [
+      "土豆 2 个",
+      "干辣椒 4 个、香醋 2 汤勺",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-69d9b74dc7c11b18.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-9-地三鲜",
+    "name": "地三鲜",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "家常",
+    "keyIngredients": [
+      "茄子 2 根",
+      "土豆 1 个、青椒 2 个",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-3c3bb1fa2c7bf4a2.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-10-红烧肉",
+    "name": "红烧肉",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "家常",
+    "keyIngredients": [
+      "五花肉 600 克",
+      "冰糖 30 克、姜 1 块",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-ee5ca4e59181c07e.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-11-红烧排骨",
+    "name": "红烧排骨",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "家常",
+    "keyIngredients": [
+      "肋排 600 克",
+      "冰糖 30 克、姜 1 块",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-0a504f96f224911d.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-12-糖醋排骨",
+    "name": "糖醋排骨",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "家常",
+    "keyIngredients": [
+      "肋排 500 克",
+      "香醋 3 汤勺、冰糖 30 克",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-1caa092448b9ba0d.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-13-油焖大虾",
+    "name": "油焖大虾",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "虾蟹贝",
+    "technique": "家常",
+    "keyIngredients": [
+      "大虾 500 克",
+      "番茄酱 1 汤勺、葱姜适量",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-d9647cc654a099e6.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-14-小炒黄牛肉",
+    "name": "小炒黄牛肉",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "牛肉",
+    "technique": "家常",
+    "keyIngredients": [
+      "黄牛肉 300 克",
+      "香菜 1 把、小米辣 6 个",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-0421125636d89f6f.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-15-农家一碗香",
+    "name": "农家一碗香",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "家常",
+    "keyIngredients": [
+      "五花肉 250 克",
+      "鸡蛋 3 个、青椒 3 个",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-19f0814f22523cd6.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-16-干锅花菜",
+    "name": "干锅花菜",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "家常",
+    "keyIngredients": [
+      "花菜 1 棵",
+      "五花肉 120 克、干辣椒 6 个",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-f8f8495f3f548259.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-17-干锅土豆片",
+    "name": "干锅土豆片",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "家常",
+    "keyIngredients": [
+      "土豆 3 个",
+      "五花肉 120 克、青椒 2 个",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-c284d3fd8c884d96.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-18-肉末茄子",
+    "name": "肉末茄子",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "家常",
+    "keyIngredients": [
+      "紫茄子 2 根",
+      "猪肉末 180 克、豆瓣酱 1 汤勺",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-d7a05ed516707a17.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-19-家常豆腐",
+    "name": "家常豆腐",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "豆制品",
+    "technique": "家常",
+    "keyIngredients": [
+      "北豆腐 2 块",
+      "木耳 60 克、青椒 1 个",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-e2496c8e080fc53e.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-20-肉末豆腐",
+    "name": "肉末豆腐",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "豆制品",
+    "technique": "家常",
+    "keyIngredients": [
+      "嫩豆腐 2 块",
+      "猪肉末 180 克、香葱 2 根",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-1bcf461c7477d6d1.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-21-黄焖鸡",
+    "name": "黄焖鸡",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "家常",
+    "keyIngredients": [
+      "鸡腿肉 500 克",
+      "香菇 6 朵、青椒 2 个",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-9c5727df1378c8c9.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-22-三杯鸡",
+    "name": "三杯鸡",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鸡禽",
+    "technique": "家常",
+    "keyIngredients": [
+      "鸡腿肉 500 克",
+      "米酒 80 毫升、九层塔 1 把",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-4bac4808291eff59.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-23-京酱肉丝",
+    "name": "京酱肉丝",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "家常",
+    "keyIngredients": [
+      "猪里脊 300 克",
+      "甜面酱 2 汤勺、葱白 2 根",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-6e1942800f34ec36.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-24-木须肉",
+    "name": "木须肉",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "猪肉",
+    "technique": "家常",
+    "keyIngredients": [
+      "猪里脊 220 克",
+      "鸡蛋 3 个、木耳 60 克、黄瓜 1 根",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-ffd02f97937d63ba.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-25-西红柿炖牛腩",
+    "name": "西红柿炖牛腩",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "牛肉",
+    "technique": "家常",
+    "keyIngredients": [
+      "牛腩 600 克",
+      "番茄 4 个、土豆 2 个",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-ad2944bee27cceee.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-26-家常红烧鱼",
+    "name": "家常红烧鱼",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "家常",
+    "keyIngredients": [
+      "鲤鱼 1 条",
+      "葱姜蒜适量、豆瓣酱 1 汤勺",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-5e3c4d7a1ab6be9f.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-27-酸菜鱼",
+    "name": "酸菜鱼",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "鱼类",
+    "technique": "家常",
+    "keyIngredients": [
+      "黑鱼片 500 克",
+      "酸菜 300 克、泡椒 6 个",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-fa51bece033c16e3.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-28-葱爆羊肉",
+    "name": "葱爆羊肉",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "羊肉",
+    "technique": "家常",
+    "keyIngredients": [
+      "羊肉片 350 克",
+      "大葱 2 根、香菜 1 把",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-fa7ca255aa96f0b7.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-29-孜然羊肉",
+    "name": "孜然羊肉",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "羊肉",
+    "technique": "家常",
+    "keyIngredients": [
+      "羊腿肉 350 克",
+      "洋葱半个、孜然粉 1 汤勺",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-403b89399e586f8e.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-30-蒜苔炒肉",
+    "name": "蒜苔炒肉",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "其他",
+    "technique": "家常",
+    "keyIngredients": [
+      "蒜苔 300 克",
+      "猪里脊 220 克、蒜 3 瓣",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-c1ffb11e04fd88b8.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-31-香干炒肉",
+    "name": "香干炒肉",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "豆制品",
+    "technique": "家常",
+    "keyIngredients": [
+      "五香豆干 250 克",
+      "猪里脊 180 克、青椒 2 个",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-fdae532079fc3cf5.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-32-虎皮青椒",
+    "name": "虎皮青椒",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "家常",
+    "keyIngredients": [
+      "青椒 8 个",
+      "蒜 4 瓣、香醋 1 汤勺",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-76425d8b2c4f3982.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "家常-33-干煸四季豆",
+    "name": "干煸四季豆",
+    "category": "daily",
+    "source": "V4基础版",
+    "mainGroup": "蔬菜",
+    "technique": "家常",
+    "keyIngredients": [
+      "四季豆 400 克",
+      "猪肉末 100 克、芽菜 40 克",
+      "姜 1 小块、蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "recipe-70012e36117758b1.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-001",
+    "name": "菠萝生炒排骨",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "猪肉",
+    "technique": "小炒",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-001.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-002",
+    "name": "西红柿鸡蛋汤",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "蛋类",
+    "technique": "快手汤",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色汤碗",
+    "imageFile": "cunlu-002.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-003",
+    "name": "料包版黏糊麻辣烫",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "四条视频使用同一类成品黏糊麻辣烫套装",
+      "这是料包复原法，不是从零炒制底料的配方。套装通常含面条、豆皮、含油底料、咸味粉料、麻酱、辣椒油等。自备配菜宜少量，可用豆芽、冻豆腐、平菇、金针菇、藕片、海带丝、油麦菜、香菜、丸子、蟹棒等",
+      "油条或油面筋最后放。"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "cunlu-003.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-004",
+    "name": "空气炸锅烤玉米",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "蔬菜",
+    "technique": "香煎",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-004.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-005",
+    "name": "醋蒸鸡",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "鸡禽",
+    "technique": "蒸",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-005.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-006",
+    "name": "海鲜粉丝煲",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "虾蟹贝",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "棕色小砂锅",
+    "imageFile": "cunlu-006.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-007",
+    "name": "料包版东北大冷面",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "成品蜂蜜/酸甜东北大冷面套装 1 份（面饼、浓缩冷面汤及其余料包）、冰水 150～250 毫升，作者常用约 200 毫升",
+      "黄瓜丝、香菜为必备配菜，可加番茄片、牛肉片、水煮蛋或糖熏蛋、冰块。"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "cunlu-007.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-008",
+    "name": "酱烧鱼",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "鱼类",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色椭圆瓷盘",
+    "imageFile": "cunlu-008.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-009",
+    "name": "可乐三杯鸡",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "鸡禽",
+    "technique": "家常",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-009.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-010",
+    "name": "水煎五花肉",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "猪肉",
+    "technique": "香煎",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-010.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-011",
+    "name": "白灼菜心",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "蔬菜",
+    "technique": "白灼",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色椭圆瓷盘",
+    "imageFile": "cunlu-011.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-012",
+    "name": "料包版麻酱拌冷面",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "成品麻酱拌冷面套装 1 份（面饼、糖醋汁、蒜水、麻酱、辣椒油及额外醋包），黄瓜丝、香菜",
+      "可加火腿、鸡蛋等。"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "cunlu-012.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-013",
+    "name": "鸡蛋烧豆腐",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "蛋类",
+    "technique": "小炒",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-013.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-014",
+    "name": "辣椒圈拌面",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "cunlu-014.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-015",
+    "name": "土豆丝炒肉",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "猪肉",
+    "technique": "小炒",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-015.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-016",
+    "name": "泡椒海带腌黄瓜",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "蔬菜",
+    "technique": "家常",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-016.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-017",
+    "name": "皮蛋炒饭",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色饭碗",
+    "imageFile": "cunlu-017.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-018",
+    "name": "捞汁小海鲜",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "虾蟹贝",
+    "technique": "海鲜快炒",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-018.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-019",
+    "name": "里脊炸串",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "猪肉",
+    "technique": "香煎",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-019.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-020",
+    "name": "砂锅土豆粉",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "cunlu-020.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-021",
+    "name": "自制牛排",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "牛肉",
+    "technique": "家常",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-021.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-022",
+    "name": "盐曲鸡胸肉",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "鸡禽",
+    "technique": "家常",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-022.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-023",
+    "name": "减盐版酱咸菜",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "蔬菜",
+    "technique": "家常",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-023.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-024",
+    "name": "空气炸锅大辣片",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "其他",
+    "technique": "香煎",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-024.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-025",
+    "name": "老奶洋芋",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "蔬菜",
+    "technique": "家常",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-025.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-026",
+    "name": "牙签牛肉",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "牛肉",
+    "technique": "家常",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-026.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-027",
+    "name": "空气炸锅烤西葫芦",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "蔬菜",
+    "technique": "香煎",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-027.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-028",
+    "name": "辣子鸡",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "鸡禽",
+    "technique": "小炒",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-028.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-029",
+    "name": "盐水牛肉",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "牛肉",
+    "technique": "家常",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-029.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-030",
+    "name": "豆角丝炒肉",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "猪肉",
+    "technique": "小炒",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-030.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-031",
+    "name": "空气炸锅小烤串",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "蔬菜",
+    "technique": "香煎",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-031.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-032",
+    "name": "八爪鱼拌面",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "小八爪鱼 500 克、鲜细面",
+      "包菜 170 克、洋葱 30 克、胡萝卜 50 克、螺丝椒 50 克、红辣椒 40 克。两顿量酱料：洋葱 20 克、辣椒 50 克、大蒜 30 克、姜片 5 克、清水 40 克、料酒 10 克",
+      "白糖 60 克、细辣椒粉 60 克、生抽 55 克、蚝油 45 克、辣椒油 20 克（可省）、牛肉粉 15 克、黑胡椒粉 1 克、味精 4 克。炒制另用成品酱约 200 克、清水 150 克、芝麻香油 10 克。"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "cunlu-032.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-033",
+    "name": "百香果酸辣柠檬虾",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "虾蟹贝",
+    "technique": "海鲜快炒",
+    "keyIngredients": [
+      "活虾 800 克（剥壳后虾仁约 400–433 克）、大葱 10 克、姜 5 克",
+      "洋葱 80 克、小米辣 30 克、大蒜 20 克、香菜 10 克、黄柠檬 1 个、百香果 2 个",
+      "辣椒面和细辣椒粉按口味，味精 3 克、辣鲜露 25 克、东古一品鲜/生抽 25 克、藤椒油 10 克、白糖先放 10 克再按酸度补（视频中因百香果偏酸又补了糖，总量约 20 克）。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-033.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-034",
+    "name": "擂辣椒烧排骨",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "猪肉",
+    "technique": "小炒",
+    "keyIngredients": [
+      "小块排骨 500 克、薄皮螺丝椒 400 克、姜 10 克、大蒜 25 克、小米辣 40 克、豆豉 20 克、八角 1 个、黄酒 10 克、热水 600 毫升",
+      "生抽 20 克、白糖 3 克、蚝油 20 克、老抽 6 克、鸡精 3 克。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-034.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-035",
+    "name": "空气炸锅烤鸡翅",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "鸡禽",
+    "technique": "香煎",
+    "keyIngredients": [
+      "鸡翅约 500 克、大蒜片 40 克、去皮土豆 1 个",
+      "生抽 10 克、老抽 5 克、蜂蜜 20 克、盐 3 克、鸡精 3 克、烧烤料 10 克、食用油 5 克",
+      "辣椒粉可选。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-035.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-036",
+    "name": "青椒土豆片炒肉",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "猪肉",
+    "technique": "小炒",
+    "keyIngredients": [
+      "土豆 500 克、薄皮青椒 200 克、五花肉 200 克、大蒜 15 克、姜 5 克、干辣椒",
+      "十三香 0.3 克、生抽 20 克、白糖 4 克、蚝油 20 克、老抽 5 克、鸡精 3 克。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-036.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-037",
+    "name": "绉纱馄饨",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "高筋面粉 85 克、玉米淀粉 15 克、盐 1 克、凉水 45 克",
+      "猪肉馅 200 克、虾仁 100 克。肉馅调味：盐 1 克、生抽 5 克、白糖 2 克、白胡椒粉 0.5 克、味精 2 克、鸡精 1 克",
+      "姜 6 克加水 70 克抓出味，过滤取姜水 55 克。虾仁调味：味精 1 克、芝麻香油 4 克。"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "cunlu-037.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-038",
+    "name": "空气炸锅烤鸡爪",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "鸡禽",
+    "technique": "香煎",
+    "keyIngredients": [
+      "鸡爪 1 斤、葱、姜、花椒、高度白酒、八角 1 个、桂皮约指甲大、香叶 2 片",
+      "生抽 2 勺、蚝油 1 勺、老抽半勺、白糖 1 满勺、辣椒面、烧烤料。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-038.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-039",
+    "name": "青椒炒肉粉",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "螺丝椒 300 克、红辣椒 40 克、蒜 15 克、五花肉 200 克、米粉、鸡蛋",
+      "十三香 0.5 克、东古一品鲜/生抽 40 克、白糖 3 克、老抽 6 克、蚝油 15 克、鸡精 3 克、盐 1 克。汤底：辣椒油 4 克、生抽 7 克、白糖 1 克、味精 1.5 克、少量热水。"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "cunlu-039.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-040",
+    "name": "炒土豆粉",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "cunlu-040.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-041",
+    "name": "家庭老式豆腐脑",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "豆制品",
+    "technique": "快手汤",
+    "keyIngredients": [
+      "黄豆 150 克、清水 1200 毫升、葡萄糖酸内酯 3 克、化内酯用清水 30 克。传统卤：木耳干 5 克（泡发约 60 克）、黄花菜干 20 克、肉 50 克、胡萝卜 20 克、葱 20 克、蒜 5 克、鸡蛋 1 个、土豆淀粉 15 克+清水 30 克",
+      "十三香 0.5 克、生抽 20 克、老抽 3 克、牛肉粉 10 克、鸡精 3 克、盐约 2 克、清水 500 克。"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "cunlu-041.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-042",
+    "name": "东北老式蒸蛋",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "蛋类",
+    "technique": "蒸",
+    "keyIngredients": [
+      "鸡蛋 4 个（约 200 克）、盐 3 克、45–50℃温水 330 克、大葱 50 克、虾皮 10 克、大豆油 15 克。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-042.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-043",
+    "name": "青椒茄子包",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "米面粥点",
+    "technique": "粥点",
+    "keyIngredients": [
+      "中筋面粉 500 克、泡打粉 3 克（可省）、温水 260 克、酵母 5 克、白糖 5 克、食用油 5 克",
+      "嫩茄子 750 克、薄皮螺丝椒 250 克、葱花 50 克",
+      "黄豆酱 50 克、生抽 20 克、蚝油 20 克、老抽 3 克、粗辣椒面 20 克、细辣椒粉 10 克、白糖 6 克、鸡精 2 克，另用少量盐促茄子出水。"
+    ],
+    "container": "广式粥碗或竹蒸笼",
+    "imageFile": "cunlu-043.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-044",
+    "name": "蒜香辣鸡爪",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "鸡禽",
+    "technique": "家常",
+    "keyIngredients": [
+      "鸡爪 13 个/约 800 克",
+      "焯水用花椒 3 克、高度白酒 20 克",
+      "卤水 1300 毫升，大葱 20 克、姜 20 克、香叶 2 片、八角 2 个、白芷 4 克，盐、生抽、老抽按步骤调味"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-044.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-045",
+    "name": "辣椒水干豆腐",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "豆制品",
+    "technique": "家常",
+    "keyIngredients": [
+      "薄干豆腐、葱花、香菜、可选猪油渣。辣椒水：细辣椒粉 20 克、麻辣鲜 5 克、生抽 20 克、鸡汁 8 克、白糖 6 克、蚝油 8 克、味精 5 克、孜然 3 克、白芝麻 3 克、70–80℃温水 350 克。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-045.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-046",
+    "name": "温泉蛋肥牛饭",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "肥牛卷 400 克、白洋葱 250 克、西兰花和胡萝卜任意量、鸡蛋",
+      "黑胡椒 2 克、东古一品鲜/生抽 55 克、清酒 35 克、味醂 35 克、可选白糖 10 克",
+      "清水 250 克。"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "cunlu-046.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-047",
+    "name": "烧烤干豆腐",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "豆制品",
+    "technique": "香煎",
+    "keyIngredients": [
+      "薄干豆腐 300 克",
+      "白芝麻 1 勺、孜然粉或孜然粒 1 勺、辣椒碎/粗辣椒粉按吃辣程度、白糖满满 1 茶勺、东北烧烤料按其咸度调整",
+      "食用油。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-047.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-048",
+    "name": "虫草花蒸鸡（鸡翅版）",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "鸡禽",
+    "technique": "蒸",
+    "keyIngredients": [
+      "鸡翅 500 克、蒜 20 克、姜 20 克、葱 20 克",
+      "盐 2 克、生抽 20 克、老抽 2 克、蚝油 10 克、白糖 4 克、鸡精 3 克",
+      "鲜虫草花 80 克或干虫草花约 25 克泡发、红枣 5 个"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-048.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-049",
+    "name": "腊味煲仔饭（家庭砂锅版）",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "泰国香米 350 克、清水 400 克",
+      "腊肠和腊肉共 150 克、芥蓝 2 棵",
+      "焯菜用盐 1 克、油 5 克、可选白酒 3 克"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "cunlu-049.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-050",
+    "name": "油泼豆腐（富贵豆腐）",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "豆制品",
+    "technique": "家常",
+    "keyIngredients": [
+      "老豆腐 900 克（视频标注为带水重量）、香菜 20 克、大葱 60 克、红辣椒 20 克、大蒜 10 克、干辣椒 10 克",
+      "焯水盐 1 茶勺。料汁：东古一品鲜/海鲜酱油 50 克、蚝油 15 克、清水 25 克、白糖 2 克、鸡精 2 克。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-050.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-051",
+    "name": "番茄肉酱意面",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "去皮新鲜番茄或番茄罐头 500 克、番茄膏 130 克、牛肉馅 150 克、五花肉馅 150 克、蒜 25 克、胡萝卜 100 克、洋葱 150 克、西芹 100 克、黄油 50 克、清水 1000 毫升",
+      "盐 6–7 克、黑胡椒 2 克、香叶 1 片、肉豆蔻 0.5 克、糖 20 克",
+      "可选红/白葡萄酒 50–80 毫升。"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "cunlu-051.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-052",
+    "name": "皮蛋擂椒茄子拌面",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "嫩长茄子 2 根、松花蛋 2 个、螺丝椒 200 克、鲜面条 400 克（约 2 人）、红椒/小米辣、大蒜约 30 克、粗辣椒面 1.5 勺、细辣椒粉半勺、花椒",
+      "煸椒用盐 2 克。调味：生抽 30 克、陈醋 10 克、蚝油 20 克、白糖 5 克、味精 3 克、芝麻香油 4 克。"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "cunlu-052.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-053",
+    "name": "辣白菜嫩豆腐汤",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "豆制品",
+    "technique": "快手汤",
+    "keyIngredients": [
+      "辣白菜 200 克/约 3 片、五花肉 150 克、洋葱 80 克、西葫芦 80 克、香菇 40 克、大蒜 15 克、大葱 25 克、青辣椒 8 克、红辣椒 8 克",
+      "嫩豆腐/内酯豆腐 450 克、芝麻油、粗辣椒粉 10 克、细辣椒粉 5 克、清水 800–1000 毫升、白胡椒、牛肉粉 4 平茶勺、味精半茶勺、蚝油半勺、盐最后调。"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "cunlu-053.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-054",
+    "name": "南瓜玉米汁",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "蔬菜",
+    "technique": "家常",
+    "keyIngredients": [
+      "熟脱皮玉米 360 克、南瓜 80 克、大米 15 克、可选冰糖 20 克、清水 800 克。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-054.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-055",
+    "name": "鸡蛋炸酱面",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "鸡蛋 4 个、螺丝椒 3–5 根、红椒、大葱较多、可选黄瓜丝",
+      "黄豆酱 100 克、蚝油 20 克、生抽 10 克、老抽 7 克、陈醋 5 克、白糖 3 克、十三香 1 克、味精 3 克",
+      "清水与酱等量。"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "cunlu-055.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-056",
+    "name": "梅菜扣肉",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "猪肉",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "五花肉 1500 克、梅干菜 150–200 克、葱 20 克、姜 10 克、花椒 2 克、八角 3 克",
+      "肉片酱：生抽 20 克、老抽 10 克、蚝油 10 克、红腐乳 17 克、腐乳汁 10 克、海鲜酱 100 克、柱侯酱 20 克（可用甜面酱）、花生酱 15 克（可省）",
+      "每碗梅菜加约 60 克肉汤。"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "cunlu-056.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-057",
+    "name": "烧烤味炒蘑菇",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "蔬菜",
+    "technique": "香煎",
+    "keyIngredients": [
+      "平菇 750 克、蒜 4 瓣、小米辣 3 根、香菜、成品烧烤料 1 小袋",
+      "生抽 1 勺、蚝油 2/3 勺、可选辣椒面 1 勺。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-057.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-058",
+    "name": "熏鱼",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "鱼类",
+    "technique": "香煎",
+    "keyIngredients": [
+      "鲤鱼 1500 克",
+      "腌鱼用姜 5 克、大葱 10 克、白胡椒 0.5 克、盐 1 克、黄酒 10 克。料汁：冰糖 150 克（极不喜甜可减至 50 克）、薄盐生抽 150 克（普通生抽 80–100 克）、老抽 10 克、海鲜酱 40 克、鸡精 3 克、清水 500 克",
+      "另用大葱 15 克、姜 5 克、香叶 2 片、八角约 3 克、桂皮 0.5 克、白芷约 3 克、花椒 2 克、小茴香 1 克、可选干辣椒"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-058.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-059",
+    "name": "风味藕条",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "蔬菜",
+    "technique": "家常",
+    "keyIngredients": [
+      "莲藕 600 克、蒜 15 克、葱 5 克、干辣椒 15 克、花椒 3 克、香菜 15 克、白芝麻",
+      "玉米淀粉约 80–90 克。碗汁：白糖 30 克、陈醋 40 克、生抽 20 克（普通偏咸生抽酌减）、蚝油 15 克、香油 5 克、盐 2 克。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-059.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-060",
+    "name": "千层脆耳",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "猪肉",
+    "technique": "家常",
+    "keyIngredients": [
+      "猪耳 900 多克/约 3 个",
+      "葱 50 克、姜 30 克、花椒约 2 克、小茴香约 2 克、香叶、白芷、肉豆蔻、八角、丁香约 0.2 克、良姜、桂皮约 1 克、干辣椒约 15 克",
+      "生抽 20 克、老抽 30 克、黄酒 15 克、冰糖 20 克、盐 30 克、味精 5 克、鸡精约 5 克、黄栀子、热水 4000 毫升。蘸料：蒜 30 克、小米辣 6 克、香菜 20 克、生抽 30 克、陈醋 20 克、芝麻香油 5 克。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-060.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-061",
+    "name": "拉丝脆皮香蕉",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "蔬菜",
+    "technique": "香煎",
+    "keyIngredients": [
+      "熟香蕉 2 根（约 260 g）、沙拉酱 20 g、炼乳 10 g（可不放）、无边吐司 10—12 片、马苏里拉芝士碎适量",
+      "鸡蛋 2 个、土豆淀粉 15 g、面包糠 120 g。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-061.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-062",
+    "name": "空气炸锅大蒜烤蚕蛹",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "虾蟹贝",
+    "technique": "香煎",
+    "keyIngredients": [
+      "蚕蛹 500 g、带皮整蒜瓣约 2 头、煮蚕蛹用葱段和姜片、食用油适量",
+      "东北烧烤料 1 袋（视频所用小袋为 25 g，换其他品牌须按咸度减量）。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-062.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-063",
+    "name": "锅包大虾",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "虾蟹贝",
+    "technique": "香煎",
+    "keyIngredients": [
+      "大虾 500 g、土豆淀粉 150 g",
+      "葱姜水腌虾（盐约 2/3 茶勺、少许白胡椒）。配菜：葱丝 3 g、胡萝卜丝 6 g、姜丝 3 g、香菜段 5 g。糖醋汁：大蒜 10 g、白糖 60 g、9°白醋 70 g、陈醋 10 g、生抽 3 g、盐 1 g。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-063.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-064",
+    "name": "红烧狮子头",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "猪肉",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "三肥七瘦猪肉 750 g、去皮马蹄 130 g、鸡蛋 1 个、玉米淀粉 20 g、葱姜水 30 g",
+      "白胡椒粉 0.5 g、白糖 4 g、盐 4 g。葱姜水原料为葱 10 g、姜 10 g、清水 50 g，拍碎抓汁过滤后取 30 g。炖汁：大葱 30 g、姜 20 g、香叶 2 片、八角 2 g、黄酒 30 g、生抽 50 g、蚝油 20 g、冰糖 15 g、盐 5 g、热水足量。摆盘用小油菜",
+      "芡水为土豆淀粉 10 g、清水 50 g。"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "cunlu-064.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-065",
+    "name": "爽口大拌菜",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "蔬菜",
+    "technique": "家常",
+    "keyIngredients": [
+      "龙口粉丝 37 g、大白菜 230 g、胡萝卜 70 g、黄瓜 80 g、干豆腐 60 g、香菜 20 g、大蒜 30 g。料汁：生抽 2 大勺、蚝油 1 大勺、白糖 3 平大勺、5°白醋 3.5 大勺、味精 1 满茶勺。辣椒油：干辣椒约 10 g、白芝麻半勺、芝麻油约 2/3 勺、热油。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-065.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-066",
+    "name": "东坡肉",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "猪肉",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "五花肉 1 kg",
+      "冰糖 50 g 炒糖色",
+      "黄酒 90 g、生抽 70 g、老抽 10 g、冰糖 35 g、红枣 4 个、干山楂 6 片，后段加盐调味"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "cunlu-066.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-067",
+    "name": "茴香小酥肉",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "猪肉",
+    "technique": "家常",
+    "keyIngredients": [
+      "猪里脊 500 g",
+      "大葱 20 g、姜 10 g、大蒜 30 g、清水 80 g 打成葱姜蒜水",
+      "炒香后碾碎的小茴香。腌料：生抽 20 g、蚝油 10 g、盐 3 g、白糖 20 g、孜然粉 7 g、十三香 2 g、味精 2 g、鸡精 2 g"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-067.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-068",
+    "name": "油炸糕",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "米面粥点",
+    "technique": "粥点",
+    "keyIngredients": [
+      "水磨糯米粉 300 g、温水约 260 g、酵母 3 g",
+      "不喜甜皮用糖 5 g+普通酵母，甜皮用糖 20 g+耐高糖酵母",
+      "豆沙约 200 g（10 个×20 g）、面包糠约 100 g。"
+    ],
+    "container": "广式粥碗或竹蒸笼",
+    "imageFile": "cunlu-068.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-069",
+    "name": "茄汁焖大虾",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "虾蟹贝",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "大虾约 650—700 g",
+      "大蒜 25 g、姜 15 g、大葱 20 g、小米辣 1 根（可省）",
+      "白糖 10 g、低盐生抽 40 g（普通咸度生抽减至 25—30 g）、番茄沙司 80 g、清水 1 碗。"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "cunlu-069.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-070",
+    "name": "酱爆猪肝",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "猪肉",
+    "technique": "小炒",
+    "keyIngredients": [
+      "猪肝 250 g、胡萝卜、螺丝椒、洋葱、姜蒜。腌料：盐 1 茶勺、白醋 2 大勺清洗，后加少量白胡椒、生抽 1 大勺、玉米淀粉 1 平大勺。碗汁：黄豆酱 1 平大勺、生抽 1、老抽 1/2、蚝油 1、白糖 2 茶勺、鸡精 1 茶勺、玉米淀粉 1 满茶勺、清水 3 大勺、少许香油。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-070.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-071",
+    "name": "新三鲜",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "蔬菜",
+    "technique": "家常",
+    "keyIngredients": [
+      "包菜 450 g、薄皮辣椒约 80 g、熟软西红柿约 350 g、大蒜 20 g",
+      "猪油",
+      "白糖 1 茶勺、盐 2/3 茶勺、生抽 2 大勺、蚝油 1 大勺、味精 1 茶勺。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-071.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-072",
+    "name": "皮蛋瘦肉粥",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "米面粥点",
+    "technique": "粥点",
+    "keyIngredients": [
+      "熟米饭 1 碗、水 5 碗、猪里脊 100 g、松花蛋 2 个、姜 5 g、生菜约 15 g、香菜/葱花约 10 g。肉片腌料：生抽 7 g、盐 1 g、白胡椒粉 0.5 g、鸡精 0.5 g、玉米淀粉 2 g、清水 8 g、芝麻香油 2 g。"
+    ],
+    "container": "广式粥碗或竹蒸笼",
+    "imageFile": "cunlu-072.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-073",
+    "name": "香辣鱿鱼饭",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "鱿鱼约 600 g、洋葱 1/3 个、蒜 4 瓣、薄皮辣椒 2 个。鱿鱼酱：苹果和洋葱各约手掌 1/4 块、蒜 10 瓣、姜少量、啤酒 4 大勺",
+      "粗辣酱 4 大勺、细辣椒粉 2 大勺、海鲜酱油 8.5 大勺、味精 2 茶勺、白糖 3 平大勺、黑胡椒约 1/3 平勺、牛肉粉 1 平勺、玉米糖浆 2 满大勺、蚝油半勺。"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "cunlu-073.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-074",
+    "name": "拉丝脆皮大肠",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "猪肉",
+    "technique": "香煎",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-074.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-075",
+    "name": "腊八蒜",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "蔬菜",
+    "technique": "家常",
+    "keyIngredients": [
+      "紫皮活蒜 2 斤（约 1000 g，剥皮前重量）、盐 10 g、冰糖或白糖 10—70 g、米醋 550—600 g",
+      "喜欢复合醋香可另加陈醋 30 g。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-075.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-076",
+    "name": "干拌麻辣烫",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "2—3 人份蔬菜、丸子和面",
+      "花生米 2 小把。麻酱汁：花生酱 2 大勺、芝麻酱 2 大勺、腐乳 2 块、红油腐乳汁 2 大勺、生抽 2 大勺、蚝油 1 满勺、白糖 2 平大勺、陈醋 3 大勺、花椒油 1 大勺、味精和鸡精各 1 茶勺、蒜末 6 瓣，清水适量。辣椒油：辣椒面 2 大勺、芝麻 1 大勺、孜然粉 1 大勺、花椒面约 1/3 平勺、蒜末 4 瓣、热油。"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "cunlu-076.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-077",
+    "name": "肉酱蒸土豆丝",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "猪肉",
+    "technique": "蒸",
+    "keyIngredients": [
+      "五花肉末 100 g、土豆约 600 g、薄皮辣椒 3 个、葱段",
+      "鸡精 1 茶勺、辣椒面 1 大勺、少许十三香",
+      "料酒半勺、生抽 1 大勺、黄豆酱 2 满大勺。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-077.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-078",
+    "name": "辣牛肉汤",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "牛肉",
+    "technique": "快手汤",
+    "keyIngredients": [
+      "牛肋条 500 g、牛腿肉 250 g、葱姜、苹果半个",
+      "干蕨菜（可用粉丝替代）、香菇 2 朵、葱、洋葱、白萝卜、辣椒、蒜",
+      "每 1 L 牛肉汤用辣椒面约 1.5 大勺、生抽 2 大勺、少许白胡椒、牛肉粉 1 平勺、鸡精 1 大勺，盐按口味"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "cunlu-078.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-079",
+    "name": "筋饼",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "米面粥点",
+    "technique": "粥点",
+    "keyIngredients": [
+      "中筋面粉 300 g、盐 3 g、沸水 60 g、凉水 135 g",
+      "油酥用中筋面粉 20 g、熟油或气味淡的油 40 g。"
+    ],
+    "container": "广式粥碗或竹蒸笼",
+    "imageFile": "cunlu-079.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-080",
+    "name": "家庭版兰州牛肉面",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "米面粥点",
+    "technique": "饭面",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "米白色大口面碗",
+    "imageFile": "cunlu-080.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-081",
+    "name": "泡椒牛肉",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "牛肉",
+    "technique": "家常",
+    "keyIngredients": [
+      "牛里脊 300 g",
+      "葱姜水 60 g",
+      "小苏打约一小撮、盐约 0.5 g、鸡精和白胡椒少量、淀粉约半大勺、油 2 大勺。配料：泡椒约 2 大勺、剁椒约 2/3 大勺、姜蒜、小米辣、芹菜。碗汁：生抽约半大勺、老抽 1/3 大勺、蚝油 1 大勺、白糖 1 满大勺、鸡精 1 茶勺、花椒油约 2/3 大勺、淀粉 1 茶勺、水 2 大勺。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-081.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-082",
+    "name": "神仙萝卜汤",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "蔬菜",
+    "technique": "快手汤",
+    "keyIngredients": [
+      "萝卜 500 g、花生米 30 g、中筋面粉 25 g、大葱 40 g、虾皮 6 g、香菜 10 g、干辣椒按辣度",
+      "水 900 ml",
+      "白胡椒粉 1 g、鸡精 3 g、味精 3 g、盐适量。"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "cunlu-082.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-083",
+    "name": "爆炒娃娃菜",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "蔬菜",
+    "technique": "小炒",
+    "keyIngredients": [
+      "娃娃菜 440 g（视频用 2 棵）、五花肉 150 g、线椒 30 g、红辣椒 30 g、大蒜 20 g",
+      "盐 1 g、生抽 20 g、蚝油 20 g、老抽 2 g、味精 3 g、料酒约 1 大勺、少许十三香或五香粉。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-083.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-084",
+    "name": "青椒火腿肠炒鸡蛋",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "蛋类",
+    "technique": "小炒",
+    "keyIngredients": [
+      "螺丝椒 3 根、火腿肠 100 g、鸡蛋 3 大个或 4 小个、蒜 4 瓣、小米辣",
+      "芡水为淀粉半平勺+水 5 大勺",
+      "生抽 2 大勺、老抽几滴、蚝油 1 满大勺、白糖 1 茶勺、味精 1 茶勺。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-084.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-085",
+    "name": "爆炒腰花",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "猪肉",
+    "technique": "小炒",
+    "keyIngredients": [
+      "猪腰 2 个，处理前共 450—490 g",
+      "野山椒 30 g、酸豆角 50 g、小米辣 10 g、美人椒 35 g、线椒 20 g、姜 10 g、大蒜 30 g、小葱 30 g。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-085.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-086",
+    "name": "蒜蓉粉丝虾滑煲",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "虾蟹贝",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "龙口粉丝 1 把、娃娃菜约 6 片、金针菇 1 把、洋葱少量、虾滑 300 g。蒜蓉酱：蒜约 100 g、小米辣 1—5 个、葱花约 10 g、油 6 大勺、生抽 2 大勺、蚝油 1 满大勺、味精和白糖各 1 茶勺。汤汁另用白胡椒、白糖 2/3 茶勺、味精 1 茶勺、生抽 1.5 大勺、盐 2/3 茶勺、水 2 碗。"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "cunlu-086.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-087",
+    "name": "香辣羊蝎子",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "羊肉",
+    "technique": "家常",
+    "keyIngredients": [
+      "羊蝎子 1.5 kg、白萝卜约 300 g、葱姜蒜、干辣椒约 30 g、青/红花椒 1 满大勺、香料包。酱底：红油郫县豆瓣酱、辣妹子酱、红剁椒各 1.5 大勺，豆豉 2/3 大勺、红腐乳 1 块",
+      "碗汁为生抽 1.5 大勺、蚝油和老抽各 2/3 大勺、鸡精 3 茶勺、冰糖约 20 g。清水约 1.5 L。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-087.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-088",
+    "name": "老厨白菜",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "蔬菜",
+    "technique": "家常",
+    "keyIngredients": [
+      "白菜约 4 大片、较粗红薯粉条 1 小把、五花肉 100 g、葱姜蒜、干辣椒、八角 1 个、香菜",
+      "陈醋 3 大勺、生抽 3 大勺、老抽约 1/3 大勺、蚝油 1 大勺、鸡精 1 茶勺。"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cunlu-088.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-089",
+    "name": "水煮鱼（沸腾老油版）",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "鱼类",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "用料和克数已写入步骤，请按顺序准备。"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "cunlu-089.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-090",
+    "name": "香辣多肉花卷",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "米面粥点",
+    "technique": "粥点",
+    "keyIngredients": [
+      "面粉 300 g、泡打粉 1 g（可省）、温水 170 g、酵母 3 g、白糖 3 g",
+      "五花肉馅 250 g、葱花约 50 g。辣椒油：辣椒面 2 满大勺、十三香 1/3 茶勺、油 5 满大勺。肉馅调味：姜末约 5 g、白胡椒 0.5 g、盐 1 平茶勺、鸡精 1 茶勺、白糖 2/3 茶勺、生抽 1 大勺、蚝油 1 满大勺、老抽半勺、甜面酱 1 满大勺。"
+    ],
+    "container": "广式粥碗或竹蒸笼",
+    "imageFile": "cunlu-090.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-091",
+    "name": "黄豆酱烧豆腐",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "豆制品",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "豆腐 750 g（南豆腐、北豆腐均可，卤水豆腐最佳",
+      "不用内酯豆腐）、葱 1 长段、蒜 3 瓣、香菜、干辣椒",
+      "十三香 0.5 g（可不放）、黄豆酱 60 g、生抽 20 g、清水 450 g、鸡精 1 茶勺、白糖 1 满茶勺、老抽半勺、蚝油 1 满大勺"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "cunlu-091.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cunlu-092",
+    "name": "红烧肉炖土豆",
+    "category": "daily",
+    "source": "村驴视频核验",
+    "mainGroup": "猪肉",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "带皮五花肉 1 kg、土豆约 500 g",
+      "糖色用冰糖 50 g+油约 2 大勺",
+      "大葱 40 g、姜 20 g、八角 3 g（约 2 个）、桂皮 0.5 g（约大拇指甲盖大）、可选干辣椒"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "cunlu-092.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-veg-001",
+    "name": "春笋炒香菇",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "蔬菜",
+    "technique": "素炒",
+    "keyIngredients": [
+      "春笋 300 克",
+      "鲜香菇 150 克",
+      "蒜 3 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "seasonal-veg-001.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-veg-002",
+    "name": "蒜蓉炒豆苗",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "蔬菜",
+    "technique": "素炒",
+    "keyIngredients": [
+      "豆苗 350 克",
+      "蒜 6 瓣",
+      "盐半小勺"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "seasonal-veg-002.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-veg-003",
+    "name": "韭菜炒绿豆芽",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "蔬菜",
+    "technique": "素炒",
+    "keyIngredients": [
+      "韭菜 180 克",
+      "绿豆芽 300 克",
+      "姜 2 片"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "seasonal-veg-003.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-veg-004",
+    "name": "蒜蓉蒸丝瓜",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "蔬菜",
+    "technique": "蒸",
+    "keyIngredients": [
+      "丝瓜 2 根",
+      "蒜 1 头",
+      "粉丝 1 小把"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "seasonal-veg-004.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-veg-005",
+    "name": "蚝油焖冬瓜",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "蔬菜",
+    "technique": "煲焖",
+    "keyIngredients": [
+      "冬瓜 600 克",
+      "干香菇 4 朵",
+      "蒜 4 瓣"
+    ],
+    "container": "棕色小砂锅或米白色深盘",
+    "imageFile": "seasonal-veg-005.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-veg-006",
+    "name": "蒜蓉炒红苋菜",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "蔬菜",
+    "technique": "素炒",
+    "keyIngredients": [
+      "红苋菜 400 克",
+      "蒜 6 瓣",
+      "盐半小勺"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "seasonal-veg-006.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-veg-007",
+    "name": "莲藕炒荷兰豆",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "蔬菜",
+    "technique": "素炒",
+    "keyIngredients": [
+      "莲藕 250 克",
+      "荷兰豆 180 克",
+      "胡萝卜半根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "seasonal-veg-007.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-veg-008",
+    "name": "百合炒南瓜",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "蔬菜",
+    "technique": "素炒",
+    "keyIngredients": [
+      "南瓜 350 克",
+      "鲜百合 120 克",
+      "荷兰豆 80 克"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "seasonal-veg-008.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-veg-009",
+    "name": "清炒淮山木耳",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "蔬菜",
+    "technique": "素炒",
+    "keyIngredients": [
+      "鲜淮山 350 克",
+      "泡发木耳 100 克",
+      "彩椒半个"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "seasonal-veg-009.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-veg-010",
+    "name": "上汤西洋菜",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "蔬菜",
+    "technique": "家常",
+    "keyIngredients": [
+      "西洋菜 450 克",
+      "皮蛋 1 个",
+      "姜 3 片"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "seasonal-veg-010.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-veg-011",
+    "name": "蒜蓉炒芥菜",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "蔬菜",
+    "technique": "素炒",
+    "keyIngredients": [
+      "芥菜 500 克",
+      "蒜 6 瓣",
+      "姜 3 片"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "seasonal-veg-011.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-veg-012",
+    "name": "腊味炒迟菜心",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "蔬菜",
+    "technique": "小炒",
+    "keyIngredients": [
+      "迟菜心 450 克",
+      "广式腊肠半根",
+      "蒜 4 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "seasonal-veg-012.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-spring-001",
+    "name": "莲子扁豆猪腱汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "猪腱肉 350 克",
+      "白扁豆 40 克",
+      "莲子 35 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-spring-001.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-spring-002",
+    "name": "芡实陈皮鲫鱼汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "鱼类",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "鲫鱼 1 条（约 450 克）",
+      "芡实 40 克",
+      "陈皮 1 小块"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-spring-002.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-spring-003",
+    "name": "淮山脊骨汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "猪脊骨 500 克",
+      "鲜淮山 350 克",
+      "枸杞 12 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-spring-003.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-spring-004",
+    "name": "金针豆腐瘦肉汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "快手汤",
+    "keyIngredients": [
+      "猪瘦肉 250 克",
+      "金针菇 150 克",
+      "嫩豆腐 1 块"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-spring-004.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-summer-001",
+    "name": "党参黄皮瘦肉汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "猪瘦肉 500 克",
+      "新鲜黄皮 50 克",
+      "党参 25 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-summer-001.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-summer-002",
+    "name": "橄榄陈皮瘦肉汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "猪瘦肉 450 克",
+      "青橄榄 8 颗",
+      "陈皮 1 小块"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-summer-002.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-summer-003",
+    "name": "白瓜眉豆筒骨汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "猪筒骨 500 克",
+      "白瓜 500 克",
+      "眉豆 70 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-summer-003.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-summer-004",
+    "name": "苦瓜黄豆排骨汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "排骨 400 克",
+      "苦瓜 1 根",
+      "黄豆 60 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-summer-004.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-autumn-001",
+    "name": "鲜石斛雪梨排骨汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "排骨 300 克",
+      "雪梨 1 个",
+      "鲜石斛 30 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-autumn-001.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-autumn-002",
+    "name": "雪梨银耳百合汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "其他",
+    "technique": "快手汤",
+    "keyIngredients": [
+      "雪梨 1 个",
+      "干银耳 20 克",
+      "干百合 25 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-autumn-002.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-autumn-003",
+    "name": "无花果猪肺瘦肉汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "处理好的猪肺 350 克",
+      "猪瘦肉 200 克",
+      "无花果干 8 个"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-autumn-003.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-autumn-004",
+    "name": "白扁豆莲藕莲子排骨汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "排骨 450 克",
+      "莲藕 400 克",
+      "白扁豆 30 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-autumn-004.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-winter-001",
+    "name": "茅根甘蔗羊肉汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "羊肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "羊腿肉 500 克",
+      "甘蔗 3 节",
+      "鲜茅根 40 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-winter-001.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-winter-002",
+    "name": "白萝卜羊肉汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "羊肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "羊腿肉 500 克",
+      "白萝卜 600 克",
+      "姜 6 片"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-winter-002.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-winter-003",
+    "name": "川芎白芷鱼头汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "鱼类",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "大鱼头 1 个",
+      "川芎 6 克",
+      "白芷 10 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-winter-003.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-winter-004",
+    "name": "三参玉竹水鸭汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "鸭鹅",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "水鸭半只",
+      "太子参 25 克",
+      "沙参 25 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-winter-004.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-spring-005",
+    "name": "春砂仁鲫鱼汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "鱼类",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "鲫鱼 1 条（约 450 克）",
+      "春砂仁 5 克",
+      "瘦肉 150 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-spring-005.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-spring-006",
+    "name": "浮小麦猪腱汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "猪腱肉 450 克",
+      "浮小麦 40 克",
+      "红枣 5 个"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-spring-006.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-spring-007",
+    "name": "五指毛桃茯苓排骨汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "排骨 450 克",
+      "五指毛桃 50 克",
+      "茯苓 25 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-spring-007.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-spring-008",
+    "name": "木棉花扁豆猪骨汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "猪骨 500 克",
+      "干木棉花 20 克",
+      "白扁豆 40 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-spring-008.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-spring-009",
+    "name": "麦芽谷芽陈皮瘦肉汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "猪瘦肉 400 克",
+      "炒麦芽 20 克",
+      "炒谷芽 20 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-spring-009.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-summer-005",
+    "name": "苦瓜鲍鱼排骨汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "排骨 400 克",
+      "鲜鲍鱼 6 只",
+      "苦瓜 1 根"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-summer-005.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-summer-006",
+    "name": "荷叶冬瓜老鸭汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "鸭鹅",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "老鸭半只",
+      "冬瓜 600 克",
+      "鲜荷叶半张"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-summer-006.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-summer-007",
+    "name": "茅根竹蔗马蹄瘦肉汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "猪瘦肉 400 克",
+      "竹蔗 3 节",
+      "鲜茅根 40 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-summer-007.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-summer-008",
+    "name": "绿豆海带排骨汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "排骨 400 克",
+      "绿豆 60 克",
+      "干海带 25 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-summer-008.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-summer-009",
+    "name": "白果枝竹冬瓜老鸭汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "鸭鹅",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "老鸭半只",
+      "冬瓜 500 克",
+      "熟白果 12 颗"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-summer-009.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-summer-010",
+    "name": "赤小豆薏米老鸭汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "鸭鹅",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "老鸭半只",
+      "赤小豆 45 克",
+      "薏米 35 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-summer-010.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-autumn-005",
+    "name": "墨鱼莲藕排骨汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "排骨 450 克",
+      "莲藕 450 克",
+      "干墨鱼 1 只"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-autumn-005.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-autumn-006",
+    "name": "沙参玉竹老鸭汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "鸭鹅",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "老鸭半只",
+      "沙参 25 克",
+      "玉竹 25 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-autumn-006.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-autumn-007",
+    "name": "南北杏雪梨瘦肉汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "猪瘦肉 400 克",
+      "雪梨 2 个",
+      "南北杏 15 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-autumn-007.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-autumn-008",
+    "name": "海底椰无花果响螺汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "虾蟹贝",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "干响螺片 80 克",
+      "猪腱肉 300 克",
+      "海底椰 35 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-autumn-008.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-autumn-009",
+    "name": "罗汉果菜干猪肺汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "处理好的猪肺 400 克",
+      "白菜干 60 克",
+      "罗汉果 1/4 个"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-autumn-009.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-winter-005",
+    "name": "栗子淮山猪蹄汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "猪蹄 700 克",
+      "去壳栗子 180 克",
+      "鲜淮山 250 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-winter-005.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-winter-006",
+    "name": "黑豆核桃杜仲猪骨汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "猪脊骨 500 克",
+      "黑豆 60 克",
+      "核桃仁 35 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-winter-006.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-winter-007",
+    "name": "当归生姜羊肉汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "羊肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "羊腿肉 600 克",
+      "当归 10 克",
+      "生姜 30 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-winter-007.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-winter-008",
+    "name": "党参黄芪鸡汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "鸡禽",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "走地鸡半只",
+      "党参 20 克",
+      "黄芪 15 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-winter-008.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-winter-009",
+    "name": "莲子芡实猪肚汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "猪肚 1 个",
+      "莲子 35 克",
+      "芡实 35 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-winter-009.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-all-001",
+    "name": "龙骨玉米萝卜汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "猪脊骨 500 克",
+      "甜玉米 1 根",
+      "胡萝卜 1 根"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-all-001.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-all-002",
+    "name": "眉豆红枣花生猪尾汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "老火汤",
+    "keyIngredients": [
+      "猪尾 500 克",
+      "眉豆 45 克",
+      "花生 45 克"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-all-002.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "seasonal-soup-all-003",
+    "name": "大地鱼瘦肉豆腐汤",
+    "category": "daily",
+    "source": "广东时令新增",
+    "mainGroup": "猪肉",
+    "technique": "快手汤",
+    "keyIngredients": [
+      "猪瘦肉 250 克",
+      "大地鱼干 25 克",
+      "嫩豆腐 1 块"
+    ],
+    "container": "米白色深口汤碗",
+    "imageFile": "seasonal-soup-all-003.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "ginger-chicken-thigh",
+    "name": "姜葱香煎鸡腿肉",
+    "category": "fitness",
+    "source": "健身餐",
+    "mainGroup": "protein",
+    "technique": "家常",
+    "role": "protein",
+    "keyIngredients": [
+      "去皮鸡腿肉 320 克",
+      "姜 15 克",
+      "葱 2 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "ginger-chicken-thigh.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "steamed-cod-tofu",
+    "name": "清蒸鳕鱼豆腐",
+    "category": "fitness",
+    "source": "健身餐",
+    "mainGroup": "protein",
+    "technique": "家常",
+    "role": "protein",
+    "keyIngredients": [
+      "鳕鱼柳 260 克",
+      "北豆腐 200 克",
+      "姜丝 10 克"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "steamed-cod-tofu.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "beef-mushroom",
+    "name": "黑椒牛肉炒口蘑",
+    "category": "fitness",
+    "source": "健身餐",
+    "mainGroup": "protein",
+    "technique": "家常",
+    "role": "protein",
+    "keyIngredients": [
+      "牛里脊 280 克",
+      "口蘑 220 克",
+      "彩椒 100 克"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "beef-mushroom.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "tomato-shrimp-egg",
+    "name": "番茄虾仁滑蛋",
+    "category": "fitness",
+    "source": "健身餐",
+    "mainGroup": "protein",
+    "technique": "家常",
+    "role": "protein",
+    "keyIngredients": [
+      "去壳虾仁 220 克",
+      "鸡蛋 3 个",
+      "番茄 300 克"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "tomato-shrimp-egg.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "soy-pumpkin-chicken",
+    "name": "南瓜豆豉蒸鸡胸",
+    "category": "fitness",
+    "source": "健身餐",
+    "mainGroup": "protein",
+    "technique": "家常",
+    "role": "protein",
+    "keyIngredients": [
+      "鸡胸肉 320 克",
+      "南瓜 300 克",
+      "豆豉 1 茶匙"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "soy-pumpkin-chicken.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "salmon-mushroom",
+    "name": "柠香三文鱼烤菌菇",
+    "category": "fitness",
+    "source": "健身餐",
+    "mainGroup": "protein",
+    "technique": "家常",
+    "role": "protein",
+    "keyIngredients": [
+      "三文鱼 280 克",
+      "海鲜菇 200 克",
+      "柠檬半个"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "salmon-mushroom.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "garlic-broccoli",
+    "name": "蒜蓉西兰花",
+    "category": "fitness",
+    "source": "健身餐",
+    "mainGroup": "vegetable",
+    "technique": "家常",
+    "role": "vegetable",
+    "keyIngredients": [
+      "西兰花 400 克",
+      "蒜 3 瓣",
+      "食用油 1 茶匙"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "garlic-broccoli.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "spinach-mushroom",
+    "name": "菠菜炒口蘑",
+    "category": "fitness",
+    "source": "健身餐",
+    "mainGroup": "vegetable",
+    "technique": "家常",
+    "role": "vegetable",
+    "keyIngredients": [
+      "菠菜 350 克",
+      "口蘑 180 克",
+      "蒜 2 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "spinach-mushroom.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cabbage-wood-ear",
+    "name": "包菜木耳小炒",
+    "category": "fitness",
+    "source": "健身餐",
+    "mainGroup": "vegetable",
+    "technique": "家常",
+    "role": "vegetable",
+    "keyIngredients": [
+      "包菜 380 克",
+      "泡发木耳 100 克",
+      "蒜 2 瓣"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "cabbage-wood-ear.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "pepper-sprouts",
+    "name": "彩椒豆芽",
+    "category": "fitness",
+    "source": "健身餐",
+    "mainGroup": "vegetable",
+    "technique": "家常",
+    "role": "vegetable",
+    "keyIngredients": [
+      "绿豆芽 300 克",
+      "红黄彩椒 180 克",
+      "葱 1 根"
+    ],
+    "container": "米白色圆形瓷盘",
+    "imageFile": "pepper-sprouts.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "mixed-grain-rice",
+    "name": "杂粮饭",
+    "category": "fitness",
+    "source": "健身餐",
+    "mainGroup": "staple",
+    "technique": "饭面",
+    "role": "staple",
+    "keyIngredients": [
+      "大米 80 克",
+      "糙米 40 克",
+      "燕麦米 30 克"
+    ],
+    "container": "米白色饭碗",
+    "imageFile": "mixed-grain-rice.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "sweet-potato-oat-rice",
+    "name": "红薯燕麦饭",
+    "category": "fitness",
+    "source": "健身餐",
+    "mainGroup": "staple",
+    "technique": "饭面",
+    "role": "staple",
+    "keyIngredients": [
+      "大米 100 克",
+      "燕麦米 30 克",
+      "红薯 220 克"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "sweet-potato-oat-rice.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "corn-yam-rice",
+    "name": "玉米山药饭",
+    "category": "fitness",
+    "source": "健身餐",
+    "mainGroup": "staple",
+    "technique": "饭面",
+    "role": "staple",
+    "keyIngredients": [
+      "大米 110 克",
+      "鲜玉米粒 100 克",
+      "山药 180 克"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "corn-yam-rice.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "buckwheat-noodles",
+    "name": "荞麦拌面",
+    "category": "fitness",
+    "source": "健身餐",
+    "mainGroup": "staple",
+    "technique": "饭面",
+    "role": "staple",
+    "keyIngredients": [
+      "荞麦面 160 克",
+      "低钠生抽 2 茶匙",
+      "米醋 2 茶匙"
+    ],
+    "container": "米白色饭碗或面碗",
+    "imageFile": "buckwheat-noodles.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "plain-yogurt",
+    "name": "无糖高蛋白酸奶",
+    "category": "fitness",
+    "source": "健身餐",
+    "mainGroup": "dairy",
+    "technique": "即食",
+    "role": "dairy",
+    "keyIngredients": [
+      "原味无糖高蛋白酸奶 300 克"
+    ],
+    "container": "米白色酸奶碗",
+    "imageFile": "plain-yogurt.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "low-fat-milk",
+    "name": "低脂牛奶",
+    "category": "fitness",
+    "source": "健身餐",
+    "mainGroup": "dairy",
+    "technique": "即食",
+    "role": "dairy",
+    "keyIngredients": [
+      "低脂或低乳糖牛奶 500 毫升"
+    ],
+    "container": "米白色杯或小碗",
+    "imageFile": "low-fat-milk.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "banana-yogurt",
+    "name": "香蕉酸奶杯",
+    "category": "fitness",
+    "source": "健身餐",
+    "mainGroup": "dairy",
+    "technique": "即食",
+    "role": "dairy",
+    "keyIngredients": [
+      "原味无糖酸奶 300 克",
+      "香蕉 1 根（约 120 克）",
+      "即食燕麦 20 克"
+    ],
+    "container": "米白色杯或小碗",
+    "imageFile": "banana-yogurt.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "fortified-soy",
+    "name": "无糖强化豆奶",
+    "category": "fitness",
+    "source": "健身餐",
+    "mainGroup": "dairy",
+    "technique": "即食",
+    "role": "dairy",
+    "keyIngredients": [
+      "无糖含钙强化豆奶 500 毫升"
+    ],
+    "container": "米白色杯或小碗",
+    "imageFile": "fortified-soy.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cherry",
+    "name": "樱桃",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "樱桃",
+      "洗净后食用，果核不食。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "cherry.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "loquat",
+    "name": "枇杷",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "枇杷",
+      "春季当造，去皮去核后食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "loquat.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "pineapple",
+    "name": "菠萝",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "菠萝",
+      "削皮去刺后切块，按需取一小份。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "pineapple.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "mulberry",
+    "name": "桑葚",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "桑葚",
+      "轻柔冲洗后食用，深色果汁容易染衣。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "mulberry.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "green-plum",
+    "name": "青梅",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "青梅",
+      "鲜果酸涩，不宜直接大量食用，可熟制后品尝。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "green-plum.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "apricot",
+    "name": "杏",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "杏",
+      "洗净后食用，果核不食。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "apricot.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "peach",
+    "name": "桃",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "桃",
+      "洗净表面绒毛，去核后食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "peach.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "plum",
+    "name": "李子",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "李子",
+      "洗净后食用，果核不食。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "plum.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "lychee",
+    "name": "荔枝",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "荔枝",
+      "夏季当造，剥壳去核后按需取一小份。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "lychee.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "wampee",
+    "name": "黄皮",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "黄皮",
+      "洗净后食用，果核不食。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "wampee.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "longan",
+    "name": "龙眼",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "龙眼",
+      "剥壳去核，按需取一小份。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "longan.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "mango",
+    "name": "芒果",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "芒果",
+      "去皮切块；对芒果过敏者避免食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "mango.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "watermelon",
+    "name": "西瓜",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "西瓜",
+      "切开后冷藏并尽快食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "watermelon.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "bayberry",
+    "name": "杨梅",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "杨梅",
+      "用流动水轻柔洗净后食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "bayberry.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "grape",
+    "name": "葡萄",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "葡萄",
+      "剪成小串后清洗，果籽按品种处理。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "grape.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "hami-melon",
+    "name": "哈密瓜",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "哈密瓜",
+      "去皮去籽切块，切开后冷藏并尽快食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "hami-melon.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "pear",
+    "name": "梨",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "梨",
+      "洗净去核，可直接切块食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "pear.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "apple",
+    "name": "苹果",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "苹果",
+      "秋季新果较多，洗净去核后食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "apple.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "pomelo",
+    "name": "柚子",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "柚子",
+      "剥去外皮和白膜后食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "pomelo.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "pomegranate",
+    "name": "石榴",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "石榴",
+      "剥出果粒食用，注意不要误吞硬籽。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "pomegranate.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "persimmon",
+    "name": "柿子",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "柿子",
+      "选择成熟果实，按需取一小份。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "persimmon.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "kiwifruit",
+    "name": "猕猴桃",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "猕猴桃",
+      "软熟后去皮切块食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "kiwifruit.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "winter-jujube",
+    "name": "冬枣",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "冬枣",
+      "洗净后食用，枣核不食。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "winter-jujube.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "fig",
+    "name": "无花果",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "无花果",
+      "成熟后果皮柔软，洗净即可食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "fig.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "sugar-orange",
+    "name": "沙糖桔",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "沙糖桔",
+      "冬季当造，剥皮后按需取一小份。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "sugar-orange.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "strawberry",
+    "name": "草莓",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "草莓",
+      "去蒂前用流动水轻柔冲洗。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "strawberry.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "orange",
+    "name": "橙子",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "橙子",
+      "剥皮或切瓣后食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "orange.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "mandarin",
+    "name": "柑橘",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "柑橘",
+      "冬季柑橘集中上市，剥皮后食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "mandarin.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "sugarcane",
+    "name": "甘蔗",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "甘蔗",
+      "削净外皮后分段食用，咀嚼时注意纤维。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "sugarcane.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "kumquat",
+    "name": "金桔",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "金桔",
+      "充分洗净，可连皮食用并吐出果籽。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "kumquat.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "avocado",
+    "name": "牛油果",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "牛油果",
+      "软熟后切开去核，可直接吃或拌沙拉。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "avocado.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "plantain",
+    "name": "大蕉",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "大蕉",
+      "选择表皮转黄、果肉软熟的果实。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "plantain.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "papaya",
+    "name": "木瓜",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "木瓜",
+      "去皮去籽切块食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "papaya.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "sapodilla",
+    "name": "人心果",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "人心果",
+      "需放至果肉变软后食用，果籽不食。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "sapodilla.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "star-apple",
+    "name": "星苹果",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "星苹果",
+      "切开后挖取果肉，果皮和果籽不食。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "star-apple.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "jaboticaba",
+    "name": "嘉宝果",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "嘉宝果",
+      "洗净后食用，果籽按个人习惯吐出。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "jaboticaba.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "acerola",
+    "name": "西印度樱桃",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "西印度樱桃",
+      "果实成熟后较软，洗净并尽快食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "acerola.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "surinam-cherry",
+    "name": "苏里南樱桃",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "苏里南樱桃",
+      "选择完全转红或紫黑的成熟果，果籽不食。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "surinam-cherry.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "goldenberry",
+    "name": "姑娘果（灯笼果）",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "姑娘果（灯笼果）",
+      "剥去纸质外衣并洗净后食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "goldenberry.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "gooseberry",
+    "name": "鹅莓",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "鹅莓",
+      "成熟果可直接吃，偏酸时可搭配酸奶。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "gooseberry.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "honeyberry",
+    "name": "蓝靛果",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "蓝靛果",
+      "果皮薄，轻柔冲洗后食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "honeyberry.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cloudberry",
+    "name": "云莓",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "云莓",
+      "成熟果柔软易损，清洗后尽快食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "cloudberry.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "salmonberry",
+    "name": "鲑莓",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "鲑莓",
+      "选择橙红色成熟果，轻柔清洗后食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "salmonberry.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "breadfruit",
+    "name": "面包果",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "面包果",
+      "通常需要蒸、烤或煮熟后食用，不作生食推荐。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "breadfruit.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "mamey-sapote",
+    "name": "玛米果",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "玛米果",
+      "放软后切开去核，挖取果肉食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "mamey-sapote.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "white-sapote",
+    "name": "白柿",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "白柿",
+      "果肉软熟后食用，果皮和果籽不食。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "white-sapote.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "ambarella",
+    "name": "六月李",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "六月李",
+      "成熟果去核食用，青果酸度较高。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "ambarella.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "soursop",
+    "name": "刺果番荔枝",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "刺果番荔枝",
+      "软熟后剥皮，果肉中的黑籽不可食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "soursop.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cherimoya",
+    "name": "南美番荔枝",
+    "category": "fruit",
+    "source": "春季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "南美番荔枝",
+      "软熟后挖取果肉，黑色果籽不可食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "cherimoya.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "blueberry",
+    "name": "蓝莓",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "蓝莓",
+      "食用前用流动水轻柔清洗。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "blueberry.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "raspberry",
+    "name": "树莓",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "树莓",
+      "果实柔软，轻柔冲洗后尽快食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "raspberry.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "blackberry",
+    "name": "黑莓",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "黑莓",
+      "选择颜色深且饱满的果实，洗净后食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "blackberry.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cantaloupe",
+    "name": "网纹甜瓜",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "网纹甜瓜",
+      "洗净表皮后切开，去籽切块食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "cantaloupe.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "honeydew",
+    "name": "蜜瓜",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "蜜瓜",
+      "去皮去籽切块，切开后冷藏。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "honeydew.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "nectarine",
+    "name": "油桃",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "油桃",
+      "洗净后去核食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "nectarine.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "fresh-prune",
+    "name": "鲜西梅",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "鲜西梅",
+      "洗净后食用，果核不食。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "fresh-prune.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "passion-fruit",
+    "name": "百香果",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "百香果",
+      "切开取果浆，可直接吃或兑水饮用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "passion-fruit.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "wax-apple",
+    "name": "莲雾",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "莲雾",
+      "洗净底部凹槽后切块食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "wax-apple.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "rambutan",
+    "name": "红毛丹",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "红毛丹",
+      "剥壳食用果肉，果核不食。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "rambutan.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "mangosteen",
+    "name": "山竹",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "山竹",
+      "按压果壳微软时剥开，食用白色果肉。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "mangosteen.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "durian",
+    "name": "榴莲",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "榴莲",
+      "开壳后取果肉，冷藏保存并尽快食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "durian.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "jackfruit",
+    "name": "菠萝蜜",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "菠萝蜜",
+      "取黄色果肉食用，果核需煮熟后才能吃。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "jackfruit.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "dragon-fruit",
+    "name": "火龙果",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "火龙果",
+      "去皮切块，按需取一小份。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "dragon-fruit.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "prickly-pear",
+    "name": "仙人掌果",
+    "category": "fruit",
+    "source": "夏季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "仙人掌果",
+      "处理时戴手套去净细刺，再剥皮食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "prickly-pear.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "guava",
+    "name": "番石榴",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "番石榴",
+      "洗净切块，较硬时切薄片更方便。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "guava.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "starfruit",
+    "name": "杨桃",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "杨桃",
+      "洗净切片；肾病人群应遵医嘱避免食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "starfruit.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "hawthorn",
+    "name": "山楂",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "山楂",
+      "鲜果较酸，去核后少量食用或熟制。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "hawthorn.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "sea-buckthorn",
+    "name": "沙棘果",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "沙棘果",
+      "酸度较高，适合少量鲜食或打成果汁。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "sea-buckthorn.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "cranberry",
+    "name": "蔓越莓",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "蔓越莓",
+      "鲜果偏酸，可少量鲜食或加热制作果酱。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "cranberry.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "blackcurrant",
+    "name": "黑加仑",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "黑加仑",
+      "去梗洗净，可鲜食或搭配酸奶。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "blackcurrant.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "elderberry",
+    "name": "接骨木莓",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "接骨木莓",
+      "不可生食，需充分加热后制作果酱或糖浆。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "elderberry.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "aronia",
+    "name": "黑果花楸",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "黑果花楸",
+      "鲜果涩味明显，适合少量食用或熟制。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "aronia.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "quince",
+    "name": "木梨（榅桲）",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "木梨（榅桲）",
+      "果肉较硬且涩，通常煮熟或制作果酱。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "quince.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "crabapple",
+    "name": "海棠果",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "海棠果",
+      "洗净去核，可鲜食或煮制。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "crabapple.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "pawpaw",
+    "name": "美洲番木瓜",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "美洲番木瓜",
+      "软熟后切开，果皮和果籽不食。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "pawpaw.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "lingonberry",
+    "name": "越橘",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "越橘",
+      "鲜果偏酸，可搭配酸奶或熟制。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "lingonberry.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "rose-hip",
+    "name": "玫瑰果",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "玫瑰果",
+      "需去除内部籽和绒毛，常用于煮茶或果酱。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "rose-hip.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "feijoa",
+    "name": "菲油果",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "菲油果",
+      "果实散发香气且微软时切开挖食。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "feijoa.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "date-fruit",
+    "name": "鲜椰枣",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "鲜椰枣",
+      "去核后食用，甜度较高宜控制份量。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "date-fruit.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "medlar",
+    "name": "欧楂",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "欧楂",
+      "需后熟至果肉变软后食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "medlar.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "akebia",
+    "name": "八月瓜",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "八月瓜",
+      "果皮自然裂开后取果肉，果籽较多。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "akebia.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "redcurrant",
+    "name": "红醋栗（红加仑）",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "红醋栗（红加仑）",
+      "去梗洗净，可鲜食或搭配甜点。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "redcurrant.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "whitecurrant",
+    "name": "白加仑",
+    "category": "fruit",
+    "source": "秋季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "白加仑",
+      "果实透明偏酸，去梗洗净后食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "whitecurrant.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "grapefruit",
+    "name": "葡萄柚",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "葡萄柚",
+      "剥皮去膜后食用；服药人群注意药物相互作用提示。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "grapefruit.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "lemon",
+    "name": "柠檬",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "柠檬",
+      "酸度高，适合切片泡水或用于调味。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "lemon.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "lime",
+    "name": "青柠",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "青柠",
+      "酸度高，适合挤汁调味，不建议空腹大量食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "lime.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "blood-orange",
+    "name": "血橙",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "血橙",
+      "剥皮或切瓣后食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "blood-orange.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "navel-orange",
+    "name": "脐橙",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "脐橙",
+      "洗净外皮后切瓣或剥皮食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "navel-orange.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "dekopon",
+    "name": "丑橘",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "丑橘",
+      "剥皮后食用，果籽不食。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "dekopon.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "harumi",
+    "name": "春见柑橘",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "春见柑橘",
+      "果皮较易剥，分瓣后食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "harumi.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "wogan",
+    "name": "沃柑",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "沃柑",
+      "剥皮分瓣后食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "wogan.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "ehime-kashi",
+    "name": "红美人柑橘",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "红美人柑橘",
+      "果肉柔软多汁，可剥皮或切开食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "ehime-kashi.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "clementine",
+    "name": "克莱门氏小柑橘",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "克莱门氏小柑橘",
+      "剥皮分瓣后食用，通常籽较少。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "clementine.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "tangelo",
+    "name": "坦柑",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "坦柑",
+      "剥皮或切瓣食用，兼有橘与柚的风味。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "tangelo.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "finger-lime",
+    "name": "澳洲指橙",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "澳洲指橙",
+      "切开挤出鱼子状果粒，适合少量搭配菜肴。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "finger-lime.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "ugli-fruit",
+    "name": "牙买加丑橘",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "牙买加丑橘",
+      "剥去厚皮和白膜后分瓣食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "ugli-fruit.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "tamarind",
+    "name": "酸角（罗望子）",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "酸角（罗望子）",
+      "剥壳去筋取果肉，味酸甜且果核不食。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "tamarind.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "kiwano",
+    "name": "火参果",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "火参果",
+      "切开后挖取绿色果肉食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "kiwano.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "tamarillo",
+    "name": "树番茄",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "树番茄",
+      "切开挖取果肉，果皮味涩通常不食。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "tamarillo.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "coconut",
+    "name": "椰子",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "椰子",
+      "开壳饮用椰汁并挖取椰肉，注意开壳安全。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "coconut.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "camu-camu",
+    "name": "卡姆果",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "卡姆果",
+      "鲜果酸度很高，通常制成果浆后少量食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "camu-camu.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "black-sapote",
+    "name": "黑柿",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "黑柿",
+      "必须完全软熟后切开挖取果肉，果籽不食。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "black-sapote.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  },
+  {
+    "id": "sugar-apple",
+    "name": "释迦果",
+    "category": "fruit",
+    "source": "冬季",
+    "mainGroup": "水果",
+    "technique": "即食",
+    "keyIngredients": [
+      "释迦果",
+      "果皮变软后掰开食用，黑色果籽不可食用。"
+    ],
+    "container": "米白色水果小碟",
+    "imageFile": "sugar-apple.webp",
+    "imageStatus": "approved",
+    "imageVersion": 1
+  }
+]
